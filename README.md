@@ -1,28 +1,19 @@
 # Primordial Substance Research / Riset Primordial Substance
 
-> **Version:** v0.4 — Conceptual + Formalization Layer  
-> **Status:** Independent conceptual research / working hypothesis — **not an established physical theory and not a scientific proof of God.**  
-> **Bahasa / Languages:** Indonesia + English.
+> **Version:** v0.5 — Primordial Will Causation Hypothesis  
+> **Status:** Independent conceptual research / working hypothesis — **not an established physical theory and not a scientific proof of God.**
 
-## 🇮🇩 Ringkasan
+## Overview / Ringkasan
 
-Repositori ini menyusun secara bertahap sebuah kerangka hipotesis tentang **ketiadaan, Primordial Substance, kesadaran primordial, penciptaan, diferensiasi, kemunculan ruang-waktu, perkembangan alam semesta, dan kesadaran individual**.
+**Primordial Substance–Emergent Spacetime Hypothesis (PSESH)** explores a model in which absolute nothingness is proposed never to have been an instantiated ontological state. “Nothingness” is treated as relative absence within a frame/domain.
 
-Nama kerja saat ini adalah **Primordial Substance–Emergent Spacetime Hypothesis (PSESH)**.
+PSESH presently treats **Primordial Substance `P`**, **primordial consciousness `C_P`**, and **primordial will `W_P`** as foundational. Consciousness and will are not modeled as entities that first appear after an initially unconscious primordial reality.
 
-PSESH mengajukan bahwa **ketiadaan absolut tidak pernah merupakan keadaan ontologis yang nyata**. “Ketiadaan” diperlakukan sebagai **ketiadaan relatif terhadap sesuatu dalam suatu kerangka/perspektif**.
+\[
+C_P,W_P\in\operatorname{Intrinsic}(P).
+\]
 
-PSESH juga menempatkan **kesadaran primordial** sebagai sifat/aspek yang sudah dimiliki Primordial Substance pada level fondasional, bukan sebagai sesuatu yang baru muncul hanya setelah materi biologis berkembang.
-
-## 🇬🇧 Summary
-
-This repository progressively organizes a hypothesis concerning **nothingness, Primordial Substance, primordial consciousness, creation, differentiation, the emergence of spacetime, cosmic development, and individual consciousness**.
-
-The current working name is the **Primordial Substance–Emergent Spacetime Hypothesis (PSESH)**.
-
-PSESH proposes that **absolute nothingness has never been an instantiated ontological state**. “Nothingness” is instead treated as **relative absence with respect to something within a frame or perspective**.
-
-The model also places **primordial consciousness** at the foundational level of Primordial Substance rather than treating consciousness as something that appears only after biological matter becomes complex.
+The newest research hypothesis asks whether primordial will has a non-redundant causal role in differentiation.
 
 ---
 
@@ -30,7 +21,7 @@ The model also places **primordial consciousness** at the foundational level of 
 
 ![PSESH Conceptual Model](visual-model/Primordial%20Substance%202D%20Model.png)
 
-The image above is the current public-facing conceptual visualization. It is intended to communicate the model accessibly; it is **not** itself a validated physical simulation.
+The image is a public-facing conceptual visualization, not a validated physical simulation.
 
 ```text
 PRIMORDIAL SUBSTANCE
@@ -46,116 +37,159 @@ PRIMORDIAL SUBSTANCE
 ████▓▒○──☉──✦──◎──●──✧▒▓████
 ```
 
-Interpretasi konseptual: keseluruhan representasi tetap berada dalam P. Diferensiasi menghasilkan keadaan terstruktur; relasi yang digambarkan sebagai garis menjadi representasi ruang emergen, dan pada tahap perkembangan kosmik domain tersebut memuat struktur fisik/kosmik.
+In the current interpretation, differentiation occurs internally. The structured line first represents ordered relation and then, in the cosmic stage, emergent spatial extension containing physical/cosmic structures. The surrounding representation remains P; it is not empty space outside P.
 
 ---
 
-## Core formal scaffold / Kerangka formal inti
+## Current theoretical architecture
 
-The present mathematical layer is **provisional scaffolding**, not established physics.
-
-### Primordial existence
+The architecture is not
 
 \[
-\operatorname{Exists}(P)=1
+\text{nothing}\rightarrow P\rightarrow C_P\rightarrow W_P.
 \]
 
-This is an existence predicate, not a claim that P is literally a mathematical set.
-
-### Relative absence
+PSESH instead adopts the conceptual starting point
 
 \[
-N(X\mid F)=1
+P\{C_P,W_P\}\quad\text{fundamental}.
 \]
 
-means X is absent relative to frame/domain F. This does not imply that absolute non-being exists.
-
-### Primordial consciousness
+The research sequence is then schematically
 
 \[
-C_P \in \operatorname{Intrinsic}(P)
+P\{C_P,W_P\}
+\xrightarrow{\text{differentiation}}
+R
+\rightarrow(S,T)
+\rightarrow\text{physical universe}.
 \]
 
-### Generative relevance requirement
+**[PSESH][SPEC] Primordial Will Causation Hypothesis:** primordial differentiation is hypothesized to be initiated, selected, or constrained by primordial will.
+
+---
+
+## Mathematical scaffold v0.2
+
+### Ontology
 
 \[
-G[P,C_P;\Lambda] \neq G[P,\neg C_P;\Lambda]
+\operatorname{Exists}(P)=1,
+\qquad
+N(X\mid F)=1\not\Rightarrow P=0.
 \]
-
-If primordial consciousness is claimed to be genuinely generative rather than decorative, a matched model with and without \(C_P\) must not be physically indistinguishable in every possible consequence.
-
-### Differentiation
 
 \[
-\Sigma_{n+1}=D(\Sigma_n;P,C_P,\Lambda)
+C_P,W_P\in\operatorname{Intrinsic}(P).
 \]
 
-Here \(n\) is a logical/computational ordering index, not assumed primordial physical time.
+### Differentiation operator `D`
 
-### Emergent structure
+`D` represents a candidate stepwise differentiation/transition rule:
 
 \[
-R_n \xrightarrow{\mathcal E} (M,g)
+\Sigma_{n+1}=D(\Sigma_n;P,C_P,\lambda_W W_P,\Lambda).
 \]
 
-where relational structure may later support an emergent geometry/metric.
+### Generative law `G`
 
-### Individual consciousness placeholder
+`G` represents the broader generative mapping producing an ordered family/history of emergent states:
+
+\[
+\mathcal H=G[P,C_P,W_P;\Lambda].
+\]
+
+Neither `D` nor `G` is an additional substance. Their explicit mathematical forms remain **[OPEN]**.
+
+### Testing causal will
+
+Rather than deleting will from the ontology, PSESH compares its causal coupling:
+
+\[
+M_0:\lambda_W=0
+\]
+
+versus
+
+\[
+M_1:\lambda_W\neq0.
+\]
+
+A minimal non-redundancy requirement is
+
+\[
+D(\Sigma;\lambda_W\neq0)\neq D(\Sigma;\lambda_W=0)
+\]
+
+for at least some admissible conditions.
+
+A future calculable consequence must ultimately satisfy something like
+
+\[
+Q(M_1)\neq Q(M_0)
+\]
+
+and connect to a discriminating observation before the causal-will hypothesis can acquire empirical support.
+
+### Individual consciousness
 
 \[
 C_i=\mathcal I(C_P,\Omega_i)
 \]
 
-This is a placeholder for the individuation problem; no validated mechanism has yet been derived.
-
-More detail:
-- [`docs/03-mathematical-formalization.md`](docs/03-mathematical-formalization.md)
-- [`docs/04-primordial-consciousness.md`](docs/04-primordial-consciousness.md)
+remains a placeholder for the unsolved individuation problem.
 
 ---
 
-## Disclaimer / Penyangkalan
+## Scientific status / Status ilmiah
 
-Kajian ini **bukan dimaksudkan untuk membentuk kredo, denominasi, sekte, atau ajaran agama baru**. Motivasi pribadi dan filosofis penelitian ini adalah mengeksplorasi apakah struktur realitas dapat memberikan argumen yang lebih kuat mengenai keberadaan **Penguasa/Pencipta/Tuhan**, dengan harapan dapat memperkokoh keimanan, sambil tetap menjalankan eksplorasi ilmu pengetahuan secara terbuka terhadap kritik dan koreksi.
+The following distinctions are essential:
 
-This work is **not intended to create a new creed, denomination, sect, or religious doctrine**. Its personal and philosophical motivation is to explore whether the structure of reality can support stronger arguments concerning the existence of a **Sovereign/Creator/God**, while remaining open to scientific criticism and correction.
+- **[PSESH]** absolute nothingness is proposed never to have been instantiated.
+- **[PSESH]** `C_P` and `W_P` are treated as intrinsic to P.
+- **[PSESH][SPEC]** `W_P` is hypothesized to have a causal role in differentiation.
+- **[OPEN]** explicit mathematical definitions of `P`, `W_P`, `D`, `G`, and `λ_W`.
+- **[OPEN]** empirical predictions distinguishing causal-will from matched non-causal-coupling models.
+- **[OPEN]** mechanism of phenomenal/individual consciousness.
 
-Motivasi tersebut bukan hasil ilmiah. Sampai model menghasilkan prediksi unik yang dapat diuji dan bertahan terhadap pengujian, repositori ini tidak boleh dipresentasikan sebagai bukti ilmiah final keberadaan Tuhan.
-
----
-
-## Boundaryless principle / Prinsip tanpa batas luar
-
-PSESH tidak mendefinisikan Primordial Substance sebagai objek dengan tepi yang dikelilingi ruang kosong. Jika ruang merupakan properti emergen, konsep seperti “luar P”, radius primordial, atau batas spasial P tidak boleh diasumsikan secara literal.
-
-Any later boundary, extent, horizon, beginning, or ending of physical spacetime—if produced by a future formal model—is a structure within emergence, not an external edge of Primordial Substance.
+The question of whether will can exist in an undifferentiated primordial state is not treated as a prerequisite for the current program. The formal target is whether the already-postulated `W_P` has a non-redundant causal role in differentiation.
 
 ---
 
-## Epistemic labels / Label epistemik
+## Boundaryless principle
 
-- **[OBS]** observation / observasi
-- **[EST]** established science / sains mapan
-- **[LIT]** literature-derived / berasal dari literatur
-- **[PSESH]** proposition of this project / proposisi proyek
-- **[SPEC]** speculation without validated mechanism / spekulasi tanpa mekanisme tervalidasi
-- **[ANA]** analogy only / analogi
-- **[OPEN]** unresolved problem / masalah terbuka
-- **[THEO]** theological interpretation / interpretasi teologis
-- **[REFL]** philosophical or practical reflection / refleksi filosofis/praktis
+PSESH does not define Primordial Substance as a finite object surrounded by empty external space. If ordinary space is emergent, concepts such as an external spatial edge, primordial radius, or literal “outside P” are not presently defined.
 
-## Research discipline / Disiplin penelitian
+---
+
+## Epistemic labels
+
+- **[OBS]** observation
+- **[EST]** established science
+- **[LIT]** literature-derived
+- **[PSESH]** proposition adopted by this project
+- **[SPEC]** speculative mechanism/hypothesis
+- **[ANA]** analogy
+- **[OPEN]** unresolved problem
+- **[THEO]** theological interpretation
+- **[REFL]** philosophical/practical reflection
+
+## Research discipline
 
 ```text
 Intuition → definition → formal law → computation → prediction → test → revision
 ```
 
-The current conceptual diagram records the intended ontology and sequence. Future computational models must make additional assumptions explicit and distinguish them from propositions already defined by PSESH.
+## Current documents
 
-## Current repository documents
+- [`docs/02-stage-model.md`](docs/02-stage-model.md) — current explanatory stages
+- [`docs/03-mathematical-formalization.md`](docs/03-mathematical-formalization.md) — mathematical scaffold v0.2
+- [`docs/04-primordial-consciousness.md`](docs/04-primordial-consciousness.md) — consciousness + primordial will causation hypothesis
+- [`docs/08-visual-model-specification.md`](docs/08-visual-model-specification.md) — visual specification
+- [`visual-model/README.md`](visual-model/README.md) — visual asset notes
 
-- [`docs/02-stage-model.md`](docs/02-stage-model.md)
-- [`docs/03-mathematical-formalization.md`](docs/03-mathematical-formalization.md)
-- [`docs/04-primordial-consciousness.md`](docs/04-primordial-consciousness.md)
-- [`docs/08-visual-model-specification.md`](docs/08-visual-model-specification.md)
-- [`visual-model/README.md`](visual-model/README.md)
+---
+
+## Disclaimer
+
+This is independent conceptual research. It is **not intended to create a new creed, denomination, sect, or religious doctrine**. The project's theological motivation may inform questions and reflection, but theological interpretation is not treated as a scientific result. Until PSESH produces unique, testable predictions that survive empirical testing, it must not be presented as scientific proof of God.
