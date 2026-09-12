@@ -3,56 +3,71 @@
 > The stages are **logical/explanatory**, not necessarily chronological before time exists.  
 > Tahap-tahap ini bersifat **logis/eksplanatoris**, tidak selalu kronologis sebelum waktu ada.
 
-## Stage 1 — Nothingness reframed / Tahap 1 — Ketiadaan dirumuskan ulang
+## Stage 1 — Nothingness reframed / Ketiadaan dirumuskan ulang
 
-This stage merges the former Step 1 and Step 2.
-
-### 🇮🇩
 - Vacuum/kehampaan tidak sama dengan ketiadaan absolut.
 - “Tidak ada X” adalah pernyataan relatif terhadap X dan suatu kerangka.
-- Ketiadaan absolut diajukan sebagai keadaan yang **tidak pernah nyata**.
-- Tahap 1 bukan periode ketika P belum ada. Ia adalah langkah konseptual untuk menghapus asumsi “sebelum segala sesuatu ada, ada ketiadaan absolut”.
+- **[PSESH]** Ketiadaan absolut diajukan sebagai keadaan yang tidak pernah nyata.
+- Tahap ini bukan periode ketika P belum ada. Ia adalah langkah konseptual untuk menghapus asumsi bahwa absolute nothingness pernah mendahului realitas.
 
-### 🇬🇧
-- A vacuum is not identical to absolute nothingness.
-- “There is no X” is relative to X and a frame.
-- Absolute nothingness is proposed to have **never been an actual state**.
-- Stage 1 is not a period in which P was absent. It is a conceptual step that removes the assumption that “absolute nothingness existed before everything”.
+\[
+N(X\mid F)=1\not\Rightarrow P=0.
+\]
 
-## Stage 2 — Primordial Substance + primordial consciousness / Tahap 2 — Primordial Substance + kesadaran primordial
+## Stage 2 — Primordial Substance, consciousness, and will
 
-### 🇮🇩
-P adalah realitas fundamental dan kesadaran primordial \(C_P\) sudah terdapat sebagai aspek intrinsik pada tahap fondasional ini. P tidak dibayangkan sebagai benda yang mengambang di ruang kosong. Ruang biasa belum menjadi kerangka fundamental.
+**[PSESH]** P adalah realitas fundamental. Kesadaran primordial `C_P` dan kehendak primordial `W_P` diperlakukan sebagai aspek intrinsik P, bukan hasil yang muncul kemudian dalam urutan waktu primordial.
 
-### 🇬🇧
-P is fundamental reality, and primordial consciousness \(C_P\) is already present as an intrinsic aspect at this foundational stage. P is not imagined as an object floating in empty space. Ordinary space is not yet the fundamental frame.
+\[
+C_P,W_P\in\operatorname{Intrinsic}(P)
+\]
 
-\[\Sigma_2=(P,C_P,\Lambda).\]
+\[
+\Sigma_P=(P,C_P,W_P,\Lambda).
+\]
 
-## Stage 3 — Differentiation and emergence / Tahap 3 — Diferensiasi dan kemunculan
+P tidak dibayangkan sebagai benda yang mengambang di ruang kosong. Ruang biasa belum diasumsikan sebagai kerangka fundamental.
 
-### 🇮🇩
-Diferensiasi semakin terjadi. Perbedaan, relasi, urutan, lokalitas, dimensi, geometri, dan kemudian ruang-waktu menjadi kandidat struktur emergen. Pada tahap inilah “penciptaan” mulai memperoleh struktur yang dapat dimodelkan.
+## Stage 3 — Differentiation and emergence / Diferensiasi dan kemunculan
 
-### 🇬🇧
-Differentiation increases. Distinction, relation, ordering, locality, dimensionality, geometry, and eventually spacetime become candidate emergent structures. At this stage “creation” begins to acquire modelable structure.
+Perbedaan, relasi, urutan, lokalitas, dimensi, geometri, dan akhirnya ruang/waktu menjadi kandidat struktur emergen.
 
-\[(P,C_P,\Lambda)\xrightarrow{\mathcal{G}}\mathcal{R}_1\rightarrow\mathcal{R}_2\rightarrow\cdots\xrightarrow{\mathcal{E}}(\mathcal{M},g).\]
+**[PSESH][SPEC] Primordial Will Causation Hypothesis:** diferensiasi dihipotesiskan diinisiasi, dipilih, atau dibatasi secara kausal oleh `W_P`.
 
-## Stage 4 — Development of the universe / Tahap 4 — Perkembangan alam semesta
+\[
+\Sigma_{n+1}=D(\Sigma_n;P,C_P,\lambda_W W_P,\Lambda).
+\]
 
-### 🇮🇩
-Setelah rezim ruang-waktu dan fisika terbentuk, perkembangan fisik berlangsung: medan, energi, materi, struktur kosmik, kimia, kehidupan, sejarah, dan kesadaran individual. Detailnya harus mengikuti bukti ilmiah jika model hendak menjadi fisika.
+`D` adalah aturan diferensiasi/transisi, bukan substansi. `λ_W` adalah parameter coupling konseptual yang memungkinkan model membandingkan causal-will (`λ_W≠0`) dengan control (`λ_W=0`) tanpa menghapus `W_P` dari ontologi.
 
-### 🇬🇧
-Once the spacetime/physical regime exists, physical development proceeds: fields, energy, matter, cosmic structure, chemistry, life, history, and individual consciousness. Its details must follow scientific evidence if the model is to become physics.
+Relational structure kemudian diharapkan menyediakan jalan menuju geometri emergen:
 
-\[(\mathcal{M},g)\rightarrow E_{phys},F,M\rightarrow \text{complex structures}\rightarrow \text{life}\rightarrow C_i\;?\]
+\[
+R_n\xrightarrow{\mathcal E}(M,g).
+\]
+
+## Stage 4 — Development of the universe / Perkembangan alam semesta
+
+Setelah rezim ruang-waktu dan fisika terbentuk, perkembangan fisik dapat mencakup medan, energi, materi, struktur kosmik, kimia, kehidupan, sejarah, dan sistem kesadaran individual.
+
+\[
+(M,g)\rightarrow E_{phys},\text{ fields/matter}\rightarrow\text{complex structures}\rightarrow\text{life}\rightarrow C_i\;?
+\]
+
+PSESH belum memiliki derivasi fisika tahap ini. Detailnya harus mengikuti bukti ilmiah apabila model hendak berkembang menjadi teori fisik.
+
+## Important distinction / Pembedaan penting
+
+The architecture is **not**
+
+\[
+P\rightarrow C_P\rightarrow W_P\rightarrow D.
+\]
+
+Instead, `C_P` and `W_P` are already intrinsic to the primordial ontology. What remains under investigation is whether and how `W_P` causally participates in `D`.
 
 ## Holy scripture mapping / Pemetaan dengan kitab suci
 
 **[THEO] Optional interpretation — not a physical derivation.**
 
-🇮🇩 Jika pembaca ingin mengaitkan model dengan kisah kitab suci, peristiwa-peristiwa penciptaan dan sejarah yang terjadi di dalam alam semesta paling masuk akal ditempatkan pada **Tahap 3–4**, karena pada fase inilah diferensiasi, ruang-waktu, struktur fisik, kehidupan, dan sejarah muncul. Pemetaan tersebut adalah pembacaan teologis, bukan pengganti verifikasi ilmiah.
-
-🇬🇧 If a reader wishes to relate the model to holy scripture, creation narratives and history occurring within the universe are most naturally associated with **Stages 3–4**, because differentiation, spacetime, physical structure, life, and history appear in these stages. This is a theological mapping, not a substitute for scientific verification.
+Jika pembaca ingin mengaitkan model dengan kisah kitab suci, peristiwa penciptaan dan sejarah di dalam alam semesta paling masuk akal dipetakan ke tahap diferensiasi dan perkembangan kosmik. Pemetaan tersebut adalah interpretasi teologis dan bukan pengganti verifikasi ilmiah.
