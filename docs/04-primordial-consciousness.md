@@ -1,177 +1,90 @@
 # 04 — Primordial Consciousness and Will / Kesadaran dan Kehendak Primordial
 
-> **Status:** foundational PSESH ontology + speculative causal hypothesis + open formal research problem. This document separates what PSESH currently adopts from what remains to be demonstrated.
+> **Status:** foundational PSESH proposition + working causal hypothesis. Formal mechanisms beyond the directly formulated concept are intentionally deferred.
 
-## 1. Foundational commitment
+## 1. Starting understanding / Pemahaman dasar
 
-PSESH does not begin from absolute nothingness and does not model consciousness or will as entities that appear after an initially non-conscious P.
-
-**[PSESH]**
+PSESH tidak dimulai dari absolute nothingness. Primordial Substance `P` diperlakukan sebagai realitas fundamental, sementara consciousness dan will diperlakukan sebagai aspek yang sudah terdapat pada keadaan primordial.
 
 \[
-C_P\in\operatorname{Intrinsic}(P),
-\qquad
-W_P\in\operatorname{Intrinsic}(P).
+C_P,W_P\in\operatorname{Intrinsic}(P).
 \]
 
-A compact representation is
+Notasi ringkas:
 
 \[
 P\{C_P,W_P\}.
 \]
 
-The braces indicate intrinsic aspects in the present conceptual notation; they do not assert a particular mathematical ontology.
+Ini bukan kronologi `P → consciousness → will`. PSESH tidak sedang menyatakan bahwa P pernah berada dalam keadaan tanpa consciousness atau tanpa will lalu memperoleh keduanya kemudian.
 
-Therefore the explanatory architecture is not
+## 2. Consciousness / Kesadaran
 
-\[
-P\rightarrow C_P\rightarrow W_P\rightarrow D.
-\]
+`C_P` digunakan untuk menyatakan **primordial consciousness**.
 
-Instead, consciousness and will are already part of the primordial ontology, while differentiation is the process whose causal basis is under investigation.
+Pada tahap penelitian sekarang, PSESH belum memberikan definisi fisik atau persamaan lengkap mengenai consciousness. Klaim yang dipertahankan hanya bahwa consciousness ditempatkan pada level primordial dalam model.
 
-## 2. Primordial Will Causation Hypothesis
+Hal ini merupakan **[PSESH] proposition**, bukan fakta ilmiah yang telah dibuktikan.
 
-**[PSESH][SPEC]** Current hypothesis:
+## 3. Will / Kehendak
 
-> Primordial differentiation is causally initiated, selected, or constrained by primordial will `W_P`.
+`W_P` digunakan untuk menyatakan **primordial will**.
 
-Schematically:
+Will tidak diperkenalkan sebagai substansi terpisah dari P, melainkan sebagai aspek yang berkaitan dengan primordial consciousness dalam pemahaman dasar model.
 
-\[
-P\{C_P,W_P\}\xrightarrow{\;W_P\;?\;}D\rightarrow R\rightarrow(S,T)\rightarrow\text{physical universe}.
-\]
+PSESH pada tahap ini tidak menetapkan ukuran numerik, parameter coupling, probability distribution, atau mekanisme matematis lain untuk will.
 
-The arrow marked `?` is deliberate: intrinsic existence of will does not by itself establish causal responsibility for differentiation.
+## 4. Current intuition / Intuisi yang sedang diuji
 
-## 3. Ontology versus causation
+Hipotesis kerja yang berasal langsung dari pemahaman model adalah:
 
-Two claims must remain separate:
+> **Diferensiasi primordial terjadi karena kehendak dari kesadaran primordial.**
 
-**Ontological commitment:**
+Representasi minimum:
 
 \[
-W_P\in\operatorname{Intrinsic}(P).
+W_P\rightarrow\text{differentiation}.
 \]
 
-**Causal hypothesis:**
+Statusnya adalah **[PSESH][SPEC]**. Panah tersebut menyatakan dugaan hubungan sebab, bukan bukti bahwa hubungan tersebut telah ditemukan dalam alam.
 
-\[
-W_P\xrightarrow{?}D.
-\]
+## 5. What remains unknown / Yang belum diketahui
 
-Thus
+Model saat ini belum menjawab secara formal:
 
-\[
-W_P\text{ exists}\;\not\Rightarrow\;W_P\text{ causes differentiation}.
-\]
+- bagaimana will menyebabkan differentiation;
+- bagaimana differentiation menghasilkan struktur dan relasi;
+- bagaimana relasi berkembang menjadi ruang;
+- bagaimana physical universe berkembang dari keadaan tersebut;
+- bagaimana primordial consciousness berkaitan dengan consciousness individual.
 
-The present research target is the second proposition.
+Pertanyaan tersebut dicatat sebagai masalah terbuka, tetapi repositori tidak akan mengisinya dengan variabel atau persamaan baru sebelum konsepnya dipahami dan dirumuskan secara langsung.
 
-## 4. Counterfactual coupling test
+## 6. Methodological boundary / Batas metodologi
 
-Rather than comparing a universe containing will with one in which will does not exist, PSESH compares the causal coupling.
+Tahap penelitian berikutnya harus bergerak dari pemahaman yang sudah ada:
 
-Let `λ_W` parameterize the coupling of primordial will to differentiation:
+```text
+understood concept
+      ↓
+clear statement
+      ↓
+comparison with relevant literature
+      ↓
+formalization only when needed
+      ↓
+potential consequence / test
+```
 
-\[
-\Sigma_{n+1}=D(\Sigma_n;P,C_P,\lambda_W W_P,\Lambda).
-\]
+Dengan cara ini matematika berfungsi sebagai alat untuk menguji konsep, bukan sebagai sumber konsep yang belum dipahami.
 
-Control model:
+## 7. Scientific status
 
-\[
-M_0:\lambda_W=0.
-\]
+- `C_P` primordial — **[PSESH] proposition**.
+- `W_P` primordial — **[PSESH] proposition**.
+- `W_P → differentiation` — **[PSESH][SPEC] working causal hypothesis**.
+- mechanism of differentiation — **[OPEN]**.
+- emergence of space — **[OPEN]**.
+- individual consciousness mechanism — **[OPEN]**.
 
-Causal-will model:
-
-\[
-M_1:\lambda_W\neq0.
-\]
-
-Both retain `P`, `C_P`, and `W_P` in the ontology. The difference is whether will has causal influence on differentiation.
-
-A necessary formal condition for non-redundancy is that for some admissible state/condition,
-
-\[
-D(\Sigma;\lambda_W\neq0)\neq D(\Sigma;\lambda_W=0).
-\]
-
-## 5. Minimal meaning of will in the formal model
-
-PSESH does not yet claim a final mathematical definition of will. A minimal working interpretation is:
-
-> `W_P` is the hypothesized capacity of primordial consciousness to non-trivially constrain, select, or bias admissible state transitions.
-
-If `𝒜(Σ_n)` is the set/space of admissible next states, a schematic representation is
-
-\[
-W_P:\mathcal A(\Sigma_n)\rightarrow\text{constraint/preference over }\Sigma_{n+1}.
-\]
-
-A later stochastic model could compare
-
-\[
-K_W(\Sigma'\mid\Sigma,W_P)
-\neq
-K_0(\Sigma'\mid\Sigma),
-\]
-
-but neither transition kernel has yet been derived.
-
-## 6. Consciousness and physical energy
-
-PSESH does not identify consciousness or primordial will with ordinary physical energy:
-
-\[
-E_{\mathrm{phys}}\neq C_P,
-\qquad
-E_{\mathrm{phys}}\neq W_P.
-\]
-
-Known biological conscious processing requires functioning physical systems and metabolism. This does not establish that consciousness-as-such is identical to energy or that primordial consciousness requires ordinary pre-existing physical energy.
-
-## 7. Individual consciousness
-
-**[SPEC][OPEN]**
-
-\[
-C_i=\mathcal I(C_P,\Omega_i).
-\]
-
-This remains a placeholder for individuation. PSESH has not yet explained why or how multiple organized systems correspond to distinct centers of subjective experience if consciousness is fundamental.
-
-State differentiation, physical individuation, and phenomenal individuation must not be treated as automatically equivalent problems.
-
-## 8. Test program
-
-The present methodology for the will-causation hypothesis is:
-
-1. **Formal consistency:** define `W_P`, `D`, and the coupling without contradiction.
-2. **Counterfactual comparison:** compare `λ_W=0` and `λ_W≠0` while holding other assumptions fixed.
-3. **Computational ablation:** once an explicit simulator exists, remove the causal coupling and measure whether generated states change.
-4. **Discriminating prediction:** identify a calculable consequence `Q` such that `Q(M_1) ≠ Q(M_0)` and determine whether it can connect to observation.
-
-This methodology tests the proposed **causal role** of will; it does not require PSESH to repeatedly re-derive the adopted ontological premise that consciousness and will are intrinsic to P.
-
-## 9. What is not a prerequisite
-
-The question “can will exist in an undifferentiated primordial state?” may remain a philosophical issue, but it is **not a prerequisite** in the present research program. PSESH already places `C_P` and `W_P` at the primordial level.
-
-The immediate scientific/formal question is narrower:
-
-\[
-\boxed{\text{Does }W_P\text{ have a non-redundant causal role in differentiation?}}
-\]
-
-## 10. Current status
-
-- `C_P ∈ Intrinsic(P)` — **[PSESH] foundational proposition**.
-- `W_P ∈ Intrinsic(P)` — **[PSESH] current foundational proposition**.
-- `W_P → D` — **[PSESH][SPEC] Primordial Will Causation Hypothesis**.
-- explicit `D`, `G`, `λ_W`, and selection rule — **[OPEN]**.
-- empirical consequence distinguishing causal from non-causal will — **[OPEN]**.
-- mechanism of individual consciousness — **[OPEN]**.
-
-The project therefore treats primordial will as an ontological commitment whose proposed causal role remains a testable/formal research target rather than an established scientific result.
+Tidak ada bagian di atas yang saat ini merupakan bukti empiris bahwa primordial consciousness atau primordial will benar-benar merupakan properti fundamental alam.
