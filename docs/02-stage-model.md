@@ -1,74 +1,70 @@
-# 02 — Foundational Stage Model / Model Tahap Dasar
+# 02 — Model Tahap Dasar / Foundational Stage Model
 
-> Tahap-tahap ini adalah urutan penjelasan konsep, bukan klaim bahwa ordinary physical time sudah ada sejak keadaan primordial.
+> 🇮🇩 Tahap-tahap ini adalah urutan penjelasan konsep, bukan klaim bahwa waktu fisik biasa sudah ada sejak keadaan primordial.  
+> 🇬🇧 These stages are an explanatory ordering of concepts, not a claim that ordinary physical time already existed in the primordial state.
 
-## Stage 1 — Nothingness reframed / Ketiadaan dirumuskan ulang
+## Tahap 1 / Stage 1 — Ketiadaan dirumuskan ulang / Nothingness reframed
 
-PSESH dimulai dari pemahaman bahwa **absolute nothingness tidak pernah merupakan keadaan nyata**.
+🇮🇩 PSESH dimulai dari pemahaman bahwa **ketiadaan mutlak tidak pernah merupakan keadaan nyata**. Ketika sesuatu dikatakan “tidak ada”, pernyataan itu menunjuk pada tidak adanya sesuatu tertentu, bukan otomatis tidak adanya seluruh realitas. Tahap ini bukan masa ketika P belum ada.
 
-Ketika kita mengatakan sesuatu “tidak ada”, pernyataan tersebut menunjuk pada tidak adanya sesuatu tertentu, bukan otomatis tidak adanya seluruh realitas.
+🇬🇧 PSESH begins from the proposition that **absolute nothingness has never been an instantiated state**. Saying that something “does not exist” refers to the absence of a particular thing and does not automatically imply the absence of all reality. This stage is not a period in which P was absent.
 
 \[
 N(X\mid F)=1
 \]
 
-adalah notasi minimum untuk ketiadaan relatif.
+adalah / is the minimal notation for relative absence / ketiadaan relatif.
 
-Tahap ini bukan masa ketika P belum ada.
+## Tahap 2 / Stage 2 — Primordial Substance, kesadaran, dan kehendak / consciousness and will
 
-## Stage 2 — Primordial Substance, consciousness, and will
+🇮🇩 Primordial Substance `P` diperlakukan sebagai realitas fundamental. Kesadaran primordial `C_P` dan kehendak primordial `W_P` sudah terdapat pada level primordial. Ini bukan kronologi `P → consciousness → will`. P juga tidak digambarkan sebagai benda yang berada di dalam ruang kosong yang sudah tersedia sebelumnya.
 
-Primordial Substance `P` diperlakukan sebagai realitas fundamental.
-
-Dalam pemahaman dasar PSESH, primordial consciousness `C_P` dan primordial will `W_P` sudah terdapat pada level primordial:
+🇬🇧 Primordial Substance `P` is treated as fundamental reality. Primordial consciousness `C_P` and primordial will `W_P` are already present at the primordial level. This is not a chronology of `P → consciousness → will`. P is also not depicted as an object located inside pre-existing empty space.
 
 \[
 C_P,W_P\in\operatorname{Intrinsic}(P).
 \]
 
-Ini bukan urutan kronologis `P → consciousness → will`.
+## Tahap 3 / Stage 3 — Diferensiasi / Differentiation
 
-P juga tidak digambarkan sebagai benda yang berada di dalam ruang kosong yang sudah tersedia sebelumnya.
+🇮🇩 Intuisi/hipotesis kerja saat ini adalah: **diferensiasi terjadi karena kehendak dari kesadaran primordial.**
 
-## Stage 3 — Differentiation / Diferensiasi
-
-Intuisi/hipotesis kerja saat ini adalah:
-
-> **Diferensiasi terjadi karena kehendak dari kesadaran primordial.**
-
-Representasi minimum:
+🇬🇧 The current intuition/working hypothesis is: **differentiation occurs because of the will of primordial consciousness.**
 
 \[
 W_P\rightarrow\text{differentiation}.
 \]
 
-Status hubungan sebab ini adalah **[PSESH][SPEC]**. Mekanismenya belum diketahui dan belum diberi persamaan tambahan.
+🇮🇩 Status hubungan sebab ini adalah **[PSESH][SPEC]**. Mekanismenya belum diketahui dan belum diberi persamaan tambahan. Diferensiasi kemudian dipahami menghasilkan perbedaan, struktur, dan relasi.
 
-Diferensiasi kemudian dipahami menghasilkan perbedaan, struktur, dan relasi.
+🇬🇧 This proposed causal relation has **[PSESH][SPEC]** status. Its mechanism is not yet known and no additional equation is assigned to it. Differentiation is then understood as giving rise to distinctions, structure, and relations.
 
-## Stage 4 — Emergent space and cosmic development
+## Tahap 4 / Stage 4 — Ruang emergen dan perkembangan kosmik / Emergent space and cosmic development
 
-Pada model visual, relasi terstruktur berkembang sehingga garis yang sebelumnya merepresentasikan hubungan dapat kemudian dipakai sebagai representasi **ruang yang muncul/emergen**.
+🇮🇩 Pada model visual, relasi terstruktur berkembang sehingga garis yang sebelumnya merepresentasikan hubungan kemudian dapat digunakan sebagai representasi **ruang emergen**. Dalam perkembangan selanjutnya, ruang tersebut menjadi domain bagi struktur dan benda kosmik.
 
-Di dalam perkembangan selanjutnya, ruang tersebut menjadi domain bagi struktur dan benda-benda kosmik.
+🇬🇧 In the visual model, structured relations develop so that the line that previously represented relation can later be used as a representation of **emergent space**. In subsequent development, that space becomes the domain for cosmic structures and objects.
 
 ```text
-structured relation
+structured relation / relasi terstruktur
 ○──○──○
 
        ↓
 
 emergent space + cosmic development
+ruang emergen + perkembangan kosmik
 ○──☉──✦──◎──●──✧
 ```
 
-Tahap ini belum merupakan derivasi fisika. Detail tentang bagaimana relasi menghasilkan ruang dan bagaimana struktur kosmik berkembang tetap **[OPEN]** dan harus dikaji terhadap ilmu pengetahuan yang relevan.
+🇮🇩 Tahap ini belum merupakan derivasi fisika. Detail tentang bagaimana relasi menghasilkan ruang dan bagaimana struktur kosmik berkembang tetap **[OPEN]**.
 
-## Minimal chain / Rantai minimum
+🇬🇧 This stage is not yet a physical derivation. How relations produce space and how cosmic structures develop remain **[OPEN]** questions.
+
+## Rantai minimum / Minimal chain
 
 \[
 P\{C_P,W_P\}
-\xrightarrow{\text{will}}
+\xrightarrow{\text{will / kehendak}}
 \text{differentiation}
 \rightarrow
 \text{structured relations}
@@ -78,10 +74,14 @@ P\{C_P,W_P\}
 \text{cosmic development}.
 \]
 
-Tidak ada operator, coupling parameter, atau mekanisme tambahan yang dianggap sebagai bagian dari model dasar sebelum konsep tersebut dirumuskan dan dipahami.
+🇮🇩 Tidak ada operator, coupling parameter, atau mekanisme tambahan yang dianggap sebagai bagian dari model dasar sebelum konsep tersebut dirumuskan dan dipahami.
 
-## Holy scripture mapping / Pemetaan kitab suci
+🇬🇧 No operator, coupling parameter, or additional mechanism is treated as part of the foundational model before the underlying concept has been directly formulated and understood.
 
-**[THEO] Optional interpretation — not a physical derivation.**
+## Pemetaan kitab suci / Holy scripture mapping
 
-Pemetaan dengan kisah kitab suci, jika digunakan, merupakan interpretasi teologis terhadap model dan bukan bukti atau derivasi ilmiah.
+**[THEO] Interpretasi opsional / Optional interpretation — bukan derivasi fisika / not a physical derivation.**
+
+🇮🇩 Pemetaan dengan kisah kitab suci, jika digunakan, merupakan interpretasi teologis terhadap model dan bukan bukti atau derivasi ilmiah.
+
+🇬🇧 Any mapping to scriptural creation narratives, if used, is a theological interpretation of the model rather than scientific evidence or derivation.
