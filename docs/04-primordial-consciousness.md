@@ -1,90 +1,81 @@
-# 04 — Primordial Consciousness and Will / Kesadaran dan Kehendak Primordial
+# 04 — Kesadaran dan Kehendak Primordial / Primordial Consciousness and Will
 
-> **Status:** foundational PSESH proposition + working causal hypothesis. Formal mechanisms beyond the directly formulated concept are intentionally deferred.
+> **Status / Status:** proposisi fondasional PSESH + hipotesis kausal kerja / foundational PSESH proposition + working causal hypothesis. Mekanisme formal di luar konsep yang sudah dirumuskan sengaja ditangguhkan / formal mechanisms beyond the directly formulated concept are intentionally deferred.
 
-## 1. Starting understanding / Pemahaman dasar
+## 1. Pemahaman dasar / Starting understanding
 
-PSESH tidak dimulai dari absolute nothingness. Primordial Substance `P` diperlakukan sebagai realitas fundamental, sementara consciousness dan will diperlakukan sebagai aspek yang sudah terdapat pada keadaan primordial.
+🇮🇩 PSESH tidak dimulai dari ketiadaan mutlak. Primordial Substance `P` diperlakukan sebagai realitas fundamental, sementara consciousness dan will diperlakukan sebagai aspek yang sudah terdapat pada keadaan primordial.
+
+🇬🇧 PSESH does not begin from absolute nothingness. Primordial Substance `P` is treated as fundamental reality, while consciousness and will are treated as aspects already present at the primordial level.
 
 \[
 C_P,W_P\in\operatorname{Intrinsic}(P).
 \]
 
-Notasi ringkas:
-
 \[
 P\{C_P,W_P\}.
 \]
 
-Ini bukan kronologi `P → consciousness → will`. PSESH tidak sedang menyatakan bahwa P pernah berada dalam keadaan tanpa consciousness atau tanpa will lalu memperoleh keduanya kemudian.
+🇮🇩 Ini bukan kronologi `P → consciousness → will`.  
+🇬🇧 This is not a chronology of `P → consciousness → will`.
 
-## 2. Consciousness / Kesadaran
+## 2. Kesadaran / Consciousness
 
-`C_P` digunakan untuk menyatakan **primordial consciousness**.
+🇮🇩 `C_P` menyatakan **kesadaran primordial**. Pada tahap sekarang PSESH belum memberikan definisi fisik atau persamaan lengkap mengenai consciousness. Klaim yang dipertahankan hanya bahwa consciousness ditempatkan pada level primordial dalam model. Ini adalah **[PSESH]**, bukan fakta ilmiah yang telah dibuktikan.
 
-Pada tahap penelitian sekarang, PSESH belum memberikan definisi fisik atau persamaan lengkap mengenai consciousness. Klaim yang dipertahankan hanya bahwa consciousness ditempatkan pada level primordial dalam model.
+🇬🇧 `C_P` denotes **primordial consciousness**. At the present stage PSESH does not provide a physical definition or complete equation for consciousness. The retained claim is only that consciousness is placed at the primordial level of the model. This is a **[PSESH]** proposition, not an established scientific fact.
 
-Hal ini merupakan **[PSESH] proposition**, bukan fakta ilmiah yang telah dibuktikan.
+## 3. Kehendak / Will
 
-## 3. Will / Kehendak
+🇮🇩 `W_P` menyatakan **kehendak primordial**. Will tidak diperkenalkan sebagai substansi terpisah dari P, melainkan sebagai aspek yang berkaitan dengan primordial consciousness. PSESH belum menetapkan ukuran numerik atau mekanisme matematis untuk will.
 
-`W_P` digunakan untuk menyatakan **primordial will**.
+🇬🇧 `W_P` denotes **primordial will**. Will is not introduced as a substance separate from P, but as an aspect associated with primordial consciousness. PSESH has not assigned a numerical measure or mathematical mechanism to will.
 
-Will tidak diperkenalkan sebagai substansi terpisah dari P, melainkan sebagai aspek yang berkaitan dengan primordial consciousness dalam pemahaman dasar model.
+## 4. Intuisi yang sedang diuji / Current intuition under examination
 
-PSESH pada tahap ini tidak menetapkan ukuran numerik, parameter coupling, probability distribution, atau mekanisme matematis lain untuk will.
-
-## 4. Current intuition / Intuisi yang sedang diuji
-
-Hipotesis kerja yang berasal langsung dari pemahaman model adalah:
-
-> **Diferensiasi primordial terjadi karena kehendak dari kesadaran primordial.**
-
-Representasi minimum:
+> 🇮🇩 **Diferensiasi primordial terjadi karena kehendak dari kesadaran primordial.**  
+> 🇬🇧 **Primordial differentiation occurs because of the will of primordial consciousness.**
 
 \[
 W_P\rightarrow\text{differentiation}.
 \]
 
-Statusnya adalah **[PSESH][SPEC]**. Panah tersebut menyatakan dugaan hubungan sebab, bukan bukti bahwa hubungan tersebut telah ditemukan dalam alam.
+🇮🇩 Statusnya **[PSESH][SPEC]**. Panah menyatakan dugaan hubungan sebab, bukan bukti bahwa hubungan tersebut telah ditemukan di alam.  
+🇬🇧 Its status is **[PSESH][SPEC]**. The arrow expresses a proposed causal relation, not evidence that this relation has been established in nature.
 
-## 5. What remains unknown / Yang belum diketahui
+## 5. Yang belum diketahui / What remains unknown
 
-Model saat ini belum menjawab secara formal:
+🇮🇩 Model belum menjelaskan secara formal bagaimana will menyebabkan differentiation, bagaimana differentiation menghasilkan struktur dan relasi, bagaimana relasi berkembang menjadi ruang, bagaimana alam fisik berkembang dari keadaan tersebut, atau bagaimana primordial consciousness berkaitan dengan consciousness individual.
 
-- bagaimana will menyebabkan differentiation;
-- bagaimana differentiation menghasilkan struktur dan relasi;
-- bagaimana relasi berkembang menjadi ruang;
-- bagaimana physical universe berkembang dari keadaan tersebut;
-- bagaimana primordial consciousness berkaitan dengan consciousness individual.
+🇬🇧 The model does not yet formally explain how will causes differentiation, how differentiation produces structure and relations, how relations develop into space, how the physical universe develops from that state, or how primordial consciousness relates to individual consciousness.
 
-Pertanyaan tersebut dicatat sebagai masalah terbuka, tetapi repositori tidak akan mengisinya dengan variabel atau persamaan baru sebelum konsepnya dipahami dan dirumuskan secara langsung.
+Pertanyaan-pertanyaan tersebut / These questions remain **[OPEN]**.
 
-## 6. Methodological boundary / Batas metodologi
-
-Tahap penelitian berikutnya harus bergerak dari pemahaman yang sudah ada:
+## 6. Batas metodologi / Methodological boundary
 
 ```text
-understood concept
-      ↓
-clear statement
-      ↓
-comparison with relevant literature
-      ↓
-formalization only when needed
-      ↓
-potential consequence / test
+konsep yang dipahami / understood concept
+              ↓
+pernyataan jelas / clear statement
+              ↓
+perbandingan literatur / literature comparison
+              ↓
+formalisasi bila diperlukan / formalization only when needed
+              ↓
+konsekuensi atau uji / potential consequence or test
 ```
 
-Dengan cara ini matematika berfungsi sebagai alat untuk menguji konsep, bukan sebagai sumber konsep yang belum dipahami.
+🇮🇩 Matematika berfungsi sebagai alat untuk menguji konsep, bukan sebagai sumber konsep yang belum dipahami.  
+🇬🇧 Mathematics functions as a tool for testing concepts, not as a source of concepts that have not yet been understood.
 
-## 7. Scientific status
+## 7. Status ilmiah / Scientific status
 
-- `C_P` primordial — **[PSESH] proposition**.
-- `W_P` primordial — **[PSESH] proposition**.
-- `W_P → differentiation` — **[PSESH][SPEC] working causal hypothesis**.
-- mechanism of differentiation — **[OPEN]**.
-- emergence of space — **[OPEN]**.
-- individual consciousness mechanism — **[OPEN]**.
+- `C_P` primordial — **[PSESH] proposition / proposisi**.
+- `W_P` primordial — **[PSESH] proposition / proposisi**.
+- `W_P → differentiation` — **[PSESH][SPEC] working causal hypothesis / hipotesis kausal kerja**.
+- mechanism of differentiation / mekanisme diferensiasi — **[OPEN]**.
+- emergence of space / kemunculan ruang — **[OPEN]**.
+- individual consciousness mechanism / mekanisme kesadaran individual — **[OPEN]**.
 
-Tidak ada bagian di atas yang saat ini merupakan bukti empiris bahwa primordial consciousness atau primordial will benar-benar merupakan properti fundamental alam.
+🇮🇩 Tidak ada bagian di atas yang saat ini merupakan bukti empiris bahwa primordial consciousness atau primordial will benar-benar merupakan properti fundamental alam.  
+🇬🇧 None of the above currently constitutes empirical evidence that primordial consciousness or primordial will is genuinely a fundamental property of nature.
