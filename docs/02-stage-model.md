@@ -1,73 +1,87 @@
-# 02 — Four-Stage Model / Model Empat Tahap
+# 02 — Foundational Stage Model / Model Tahap Dasar
 
-> The stages are **logical/explanatory**, not necessarily chronological before time exists.  
-> Tahap-tahap ini bersifat **logis/eksplanatoris**, tidak selalu kronologis sebelum waktu ada.
+> Tahap-tahap ini adalah urutan penjelasan konsep, bukan klaim bahwa ordinary physical time sudah ada sejak keadaan primordial.
 
 ## Stage 1 — Nothingness reframed / Ketiadaan dirumuskan ulang
 
-- Vacuum/kehampaan tidak sama dengan ketiadaan absolut.
-- “Tidak ada X” adalah pernyataan relatif terhadap X dan suatu kerangka.
-- **[PSESH]** Ketiadaan absolut diajukan sebagai keadaan yang tidak pernah nyata.
-- Tahap ini bukan periode ketika P belum ada. Ia adalah langkah konseptual untuk menghapus asumsi bahwa absolute nothingness pernah mendahului realitas.
+PSESH dimulai dari pemahaman bahwa **absolute nothingness tidak pernah merupakan keadaan nyata**.
+
+Ketika kita mengatakan sesuatu “tidak ada”, pernyataan tersebut menunjuk pada tidak adanya sesuatu tertentu, bukan otomatis tidak adanya seluruh realitas.
 
 \[
-N(X\mid F)=1\not\Rightarrow P=0.
+N(X\mid F)=1
 \]
+
+adalah notasi minimum untuk ketiadaan relatif.
+
+Tahap ini bukan masa ketika P belum ada.
 
 ## Stage 2 — Primordial Substance, consciousness, and will
 
-**[PSESH]** P adalah realitas fundamental. Kesadaran primordial `C_P` dan kehendak primordial `W_P` diperlakukan sebagai aspek intrinsik P, bukan hasil yang muncul kemudian dalam urutan waktu primordial.
+Primordial Substance `P` diperlakukan sebagai realitas fundamental.
+
+Dalam pemahaman dasar PSESH, primordial consciousness `C_P` dan primordial will `W_P` sudah terdapat pada level primordial:
 
 \[
-C_P,W_P\in\operatorname{Intrinsic}(P)
+C_P,W_P\in\operatorname{Intrinsic}(P).
 \]
+
+Ini bukan urutan kronologis `P → consciousness → will`.
+
+P juga tidak digambarkan sebagai benda yang berada di dalam ruang kosong yang sudah tersedia sebelumnya.
+
+## Stage 3 — Differentiation / Diferensiasi
+
+Intuisi/hipotesis kerja saat ini adalah:
+
+> **Diferensiasi terjadi karena kehendak dari kesadaran primordial.**
+
+Representasi minimum:
 
 \[
-\Sigma_P=(P,C_P,W_P,\Lambda).
+W_P\rightarrow\text{differentiation}.
 \]
 
-P tidak dibayangkan sebagai benda yang mengambang di ruang kosong. Ruang biasa belum diasumsikan sebagai kerangka fundamental.
+Status hubungan sebab ini adalah **[PSESH][SPEC]**. Mekanismenya belum diketahui dan belum diberi persamaan tambahan.
 
-## Stage 3 — Differentiation and emergence / Diferensiasi dan kemunculan
+Diferensiasi kemudian dipahami menghasilkan perbedaan, struktur, dan relasi.
 
-Perbedaan, relasi, urutan, lokalitas, dimensi, geometri, dan akhirnya ruang/waktu menjadi kandidat struktur emergen.
+## Stage 4 — Emergent space and cosmic development
 
-**[PSESH][SPEC] Primordial Will Causation Hypothesis:** diferensiasi dihipotesiskan diinisiasi, dipilih, atau dibatasi secara kausal oleh `W_P`.
+Pada model visual, relasi terstruktur berkembang sehingga garis yang sebelumnya merepresentasikan hubungan dapat kemudian dipakai sebagai representasi **ruang yang muncul/emergen**.
+
+Di dalam perkembangan selanjutnya, ruang tersebut menjadi domain bagi struktur dan benda-benda kosmik.
+
+```text
+structured relation
+○──○──○
+
+       ↓
+
+emergent space + cosmic development
+○──☉──✦──◎──●──✧
+```
+
+Tahap ini belum merupakan derivasi fisika. Detail tentang bagaimana relasi menghasilkan ruang dan bagaimana struktur kosmik berkembang tetap **[OPEN]** dan harus dikaji terhadap ilmu pengetahuan yang relevan.
+
+## Minimal chain / Rantai minimum
 
 \[
-\Sigma_{n+1}=D(\Sigma_n;P,C_P,\lambda_W W_P,\Lambda).
+P\{C_P,W_P\}
+\xrightarrow{\text{will}}
+\text{differentiation}
+\rightarrow
+\text{structured relations}
+\rightarrow
+\text{emergent space}
+\rightarrow
+\text{cosmic development}.
 \]
 
-`D` adalah aturan diferensiasi/transisi, bukan substansi. `λ_W` adalah parameter coupling konseptual yang memungkinkan model membandingkan causal-will (`λ_W≠0`) dengan control (`λ_W=0`) tanpa menghapus `W_P` dari ontologi.
+Tidak ada operator, coupling parameter, atau mekanisme tambahan yang dianggap sebagai bagian dari model dasar sebelum konsep tersebut dirumuskan dan dipahami.
 
-Relational structure kemudian diharapkan menyediakan jalan menuju geometri emergen:
-
-\[
-R_n\xrightarrow{\mathcal E}(M,g).
-\]
-
-## Stage 4 — Development of the universe / Perkembangan alam semesta
-
-Setelah rezim ruang-waktu dan fisika terbentuk, perkembangan fisik dapat mencakup medan, energi, materi, struktur kosmik, kimia, kehidupan, sejarah, dan sistem kesadaran individual.
-
-\[
-(M,g)\rightarrow E_{phys},\text{ fields/matter}\rightarrow\text{complex structures}\rightarrow\text{life}\rightarrow C_i\;?
-\]
-
-PSESH belum memiliki derivasi fisika tahap ini. Detailnya harus mengikuti bukti ilmiah apabila model hendak berkembang menjadi teori fisik.
-
-## Important distinction / Pembedaan penting
-
-The architecture is **not**
-
-\[
-P\rightarrow C_P\rightarrow W_P\rightarrow D.
-\]
-
-Instead, `C_P` and `W_P` are already intrinsic to the primordial ontology. What remains under investigation is whether and how `W_P` causally participates in `D`.
-
-## Holy scripture mapping / Pemetaan dengan kitab suci
+## Holy scripture mapping / Pemetaan kitab suci
 
 **[THEO] Optional interpretation — not a physical derivation.**
 
-Jika pembaca ingin mengaitkan model dengan kisah kitab suci, peristiwa penciptaan dan sejarah di dalam alam semesta paling masuk akal dipetakan ke tahap diferensiasi dan perkembangan kosmik. Pemetaan tersebut adalah interpretasi teologis dan bukan pengganti verifikasi ilmiah.
+Pemetaan dengan kisah kitab suci, jika digunakan, merupakan interpretasi teologis terhadap model dan bukan bukti atau derivasi ilmiah.
