@@ -1,31 +1,49 @@
-# 2D Moving Visual Model / Model Visual Bergerak 2D
+# PSESH Conceptual Visual Model / Model Visual Konseptual PSESH
+
+![PSESH Conceptual Model](Primordial%20Substance%202D%20Model.png)
 
 ## 🇮🇩 Status
 
-Ini adalah visualisasi **konseptual** yang mengikuti model 2D yang telah dipilih sebagai representasi kerja PSESH. Ia **bukan** simulasi fisika tervalidasi dan tidak boleh diperlakukan sebagai bukti empiris.
+Gambar di atas adalah **visualisasi konseptual utama saat ini** untuk menjelaskan PSESH secara lebih mudah kepada pembaca umum. Ia bukan simulasi fisika tervalidasi dan bukan hasil numerik dari hukum dinamika yang telah dibuktikan.
 
-Aturan inti visual:
+Struktur konseptual dasarnya adalah:
 
-1. Seluruh viewport merepresentasikan **Primordial Substance (P)**.
-2. Latar tidak merepresentasikan absolute nothingness atau ruang kosong di luar P.
-3. **Primordial consciousness (Cₚ)** divisualisasikan sebagai aspek/keadaan P secara keseluruhan, bukan objek tersendiri.
-4. Domain terdiferensiasi **Ω** muncul dan berkembang di dalam P.
-5. Batas Ω dapat divisualisasikan; **batas P tidak didefinisikan**.
-6. Posisi Ω di tengah layar hanyalah konvensi display, bukan klaim bahwa alam semesta memiliki pusat absolut.
-7. Urutan animasi adalah **logical/model ordering**, bukan bukti bahwa waktu fisik telah ada pada tahap primordial.
+```text
+PRIMORDIAL SUBSTANCE
+████████████████████████████
 
-Buka `index.html` di browser untuk menjalankan visualisasi.
+       differentiation
+██████████▓▓▒▒░░▒▒▓▓████████
+
+       structured state
+██████▓▒○──○──○▒▓███████████
+
+       cosmic development
+████▓▒○──☉──✦──◎──●──✧▒▓████
+```
+
+Interpretasi kerja:
+
+1. Primordial Substance `P` adalah realitas fondasional dan tidak digambarkan sebagai objek yang berada di dalam ruang eksternal.
+2. Primordial consciousness `C_P` merupakan aspek intrinsik hipotesis dari P, bukan objek terpisah.
+3. Diferensiasi terjadi di dalam P.
+4. Keadaan terstruktur memperkenalkan relasi; garis pada diagram merupakan representasi konseptual dari ruang/relasi spasial yang muncul.
+5. Pada perkembangan berikutnya, domain tersebut memuat struktur fisik dan kosmik.
+6. Batas gambar atau bentuk domain visual bukan batas ontologis P.
 
 ## 🇬🇧 Status
 
-This is a **conceptual** visualization that follows the selected 2D working representation of PSESH. It is **not** a validated physical simulation and must not be treated as empirical evidence.
+The image above is the **current primary conceptual visualization** used to communicate PSESH accessibly. It is not a validated physical simulation and is not a numerical output derived from an established dynamical law.
 
-Core visual rules:
+Working interpretation:
 
-1. The entire viewport represents **Primordial Substance (P)**.
-2. The background does not represent absolute nothingness or empty space outside P.
-3. **Primordial consciousness (Cₚ)** is visualized as an aspect/state of P as a whole, not as a separate object.
-4. A differentiated domain **Ω** emerges and develops within P.
-5. Ω may have a displayed boundary; **P has no defined external boundary**.
-6. Ω is centered only for display convenience; this is not a claim of an absolute cosmic center.
-7. Animation order is **logical/model ordering**, not evidence that ordinary physical time already existed at the primordial stage.
+1. Primordial Substance `P` is foundational reality and is not depicted as an object located inside external space.
+2. Primordial consciousness `C_P` is a hypothesized intrinsic aspect of P, not a separate object.
+3. Differentiation occurs within P.
+4. The structured state introduces relations; the line in the diagram conceptually represents emerging space/spatial relations.
+5. In subsequent development the domain contains physical and cosmic structures.
+6. The image edge or displayed domain boundary is not an ontological boundary of P.
+
+## Scientific status / Status ilmiah
+
+**[PSESH][SPEC]** This visual records the intended conceptual architecture. A future computational simulation must be generated from explicit mathematical transition laws before it can be treated as a dynamical result.
