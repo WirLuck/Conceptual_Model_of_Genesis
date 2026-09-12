@@ -1,247 +1,89 @@
-# 03 — Mathematical Formalization v0.2 / Formalisasi Matematis v0.2
+# 03 — Minimal Formalization / Formalisasi Minimum
 
-> **Status:** provisional mathematical scaffolding. These expressions organize PSESH; they are not established laws of physics.
+> **Status:** notation for already-defined PSESH ideas only. This document intentionally avoids mathematical mechanisms that have not yet been conceptually understood or directly formulated.
 
-## 1. Symbols / Simbol
+## Purpose / Tujuan
 
-| Symbol | Meaning |
-|---|---|
-| `P` | Primordial Substance |
-| `C_P` | primordial consciousness |
-| `W_P` | primordial will / kehendak primordial |
-| `Σ_n` | model state at logical/computational ordering index `n` |
-| `D` | differentiation operator: rule for one state transition |
-| `G` | generative law/mapping: broader law producing an emergent history/structure |
-| `λ_W` | coupling parameter between primordial will and differentiation |
-| `R_n` | relational structure |
-| `S,T` | emergent spatial and temporal structure |
-| `g` | emergent geometry/metric |
-| `E_phys` | physical energy in the emergent physical regime |
-| `M` | matter/fields/physical degrees of freedom |
-| `C_i` | individual consciousness |
-| `Ω_i` | organized physical/informational structure associated with individual `i` |
-| `Λ` | other unknown lawful parameters |
+Matematika pada tahap ini digunakan untuk **meringkas pemahaman**, bukan untuk menggantikan pemahaman dengan simbol baru.
 
-## 2. Ontological foundation / Fondasi ontologis
+Karena itu versi ini hanya mempertahankan empat gagasan dasar.
 
-**[PSESH]**
+## 1. Primordial Substance
+
+**[PSESH]** Primordial Substance `P` diperlakukan sebagai realitas fundamental:
 
 \[
-\operatorname{Exists}(P)=1
+\operatorname{Exists}(P)=1.
 \]
 
-This is an existence predicate, not a claim that P is literally a set, field, manifold, or ordinary physical substance.
+Persamaan ini adalah notasi konseptual. Ia belum mendefinisikan apakah P secara matematis merupakan field, set, manifold, algebra, atau struktur lain.
 
-Relative absence is represented by
+## 2. Relative absence / Ketiadaan relatif
 
 \[
-N(X\mid F)=1,
+N(X\mid F)=1
 \]
 
-meaning X is absent relative to frame/domain F. This does not imply an instantiated state of absolute non-being.
+berarti `X` tidak ada relatif terhadap frame/domain `F`.
 
-## 3. Primordial intrinsic structure
+PSESH tidak menyamakan pernyataan tersebut dengan absolute nothingness. Dengan kata lain, tidak adanya X tidak dengan sendirinya berarti tidak adanya seluruh realitas.
 
-PSESH presently treats consciousness and will as intrinsic aspects of P rather than later products:
+## 3. Primordial consciousness and will
+
+**[PSESH]** Dalam dasar pemahaman saat ini, consciousness dan will sudah ada sebagai aspek primordial:
 
 \[
-C_P\in\operatorname{Intrinsic}(P),
-\qquad
-W_P\in\operatorname{Intrinsic}(P).
+C_P,W_P\in\operatorname{Intrinsic}(P).
 \]
 
-A compact primordial state notation is therefore
+- `C_P` = primordial consciousness / kesadaran primordial.
+- `W_P` = primordial will / kehendak primordial.
+
+Notasi ini tidak berarti bahwa P terlebih dahulu ada lalu menciptakan consciousness dan will. Ketiganya tidak sedang disusun sebagai kronologi.
+
+## 4. Current causal hypothesis / Hipotesis kausal saat ini
+
+Intuisi yang sedang diuji adalah:
 
 \[
-\Sigma_P=(P,C_P,W_P,\Lambda).
+W_P\rightarrow\text{differentiation}.
 \]
 
-The components in this tuple are explanatory/formal distinctions. They do not imply that P, consciousness, and will were temporally assembled in sequence.
+**[PSESH][SPEC]** Artinya: diferensiasi primordial dihipotesiskan terjadi karena kehendak yang terdapat pada kesadaran primordial.
 
-Physical energy remains distinct:
+Notasi panah hanya menyatakan hipotesis hubungan sebab. Ia **belum** menentukan mekanisme matematis tentang bagaimana kehendak menghasilkan diferensiasi.
+
+## What is deliberately not formalized yet
+
+Versi sebelumnya memperkenalkan simbol seperti `D`, `G`, `λ_W`, `Σ_n`, transition kernels, emergence maps, differentiation functionals, dan berbagai variabel turunan. Simbol-simbol tersebut **tidak digunakan sebagai bagian inti pada tahap ini** karena konsep yang hendak mereka wakili belum dirumuskan langsung dengan cukup jelas.
+
+Mereka dapat dipertimbangkan kembali kemudian hanya jika:
+
+1. konsep dasarnya sudah dipahami dan dijelaskan dalam bahasa biasa;
+2. kebutuhan terhadap variabel atau operator tersebut muncul dari konsep, bukan sebaliknya;
+3. definisinya dapat dibedakan dari asumsi tambahan;
+4. formalisasi tersebut membantu menghasilkan konsekuensi yang dapat dianalisis atau diuji.
+
+## Current minimal chain
+
+Untuk saat ini, batas formal PSESH adalah:
 
 \[
-E_{\mathrm{phys}}\neq C_P,
-\qquad
-E_{\mathrm{phys}}\neq W_P.
+P\{C_P,W_P\}
+\xrightarrow{\text{will}}
+\text{differentiation}
+\rightarrow
+\text{structured relations}
+\rightarrow
+\text{emergent space}
+\rightarrow
+\text{cosmic development}.
 \]
 
-Ordinary physical energy is introduced only after an emergent physical regime exists.
+Rantai ini adalah **model konseptual**, bukan persamaan dinamika fisika.
 
-## 4. `D` and `G`
+## Methodological constraint
 
-`D` and `G` are not additional substances.
+**No new mathematical variable should be promoted into the core model before the underlying concept has been directly understood and formulated.**
 
-**`D` — differentiation operator** describes a local/stepwise transition:
-
-\[
-\Sigma_{n+1}=D(\Sigma_n;P,C_P,W_P,\Lambda).
-\]
-
-**`G` — generative law** denotes the broader mapping that produces an emergent sequence or structure:
-
-\[
-\mathcal H=G[P,C_P,W_P;\Lambda],
-\]
-
-where `𝓗` is a generated history/ordered family of states in the model. The index `n` and the ordering in `𝓗` are logical/computational unless physical time has already emerged.
-
-## 5. Primordial Will Causation Hypothesis
-
-**[PSESH][SPEC]** Current causal hypothesis:
-
-> Primordial differentiation is initiated, selected, or constrained by primordial will.
-
-The important distinction is between **existence of will** and **causal coupling of will to differentiation**. PSESH does not need to remove `W_P` from ontology to construct a control model.
-
-Define a coupling parameter:
-
-\[
-\Sigma_{n+1}=D(\Sigma_n;P,C_P,\lambda_W W_P,\Lambda).
-\]
-
-Two matched models can then be compared:
-
-\[
-M_0:\;\lambda_W=0
-\]
-
-will exists as an intrinsic aspect of P but has no causal coupling to differentiation, versus
-
-\[
-M_1:\;\lambda_W\neq0
-\]
-
-where primordial will changes or constrains state transitions.
-
-The minimal causal relevance condition is
-
-\[
-D(\Sigma;\lambda_W\neq0)\neq D(\Sigma;\lambda_W=0)
-\]
-
-for at least some admissible states/conditions.
-
-This is a **research criterion**, not evidence that the criterion is satisfied in nature.
-
-## 6. Will as constraint/selection
-
-A minimally committed formal interpretation is:
-
-\[
-W_P:\mathcal A(\Sigma_n)\rightarrow \text{constraint or preference over admissible }\Sigma_{n+1},
-\]
-
-where `𝒜(Σ_n)` denotes possible next states allowed by the rest of the model.
-
-A stochastic form may later compare
-
-\[
-K_W(\Sigma'\mid\Sigma,W_P)
-\]
-
-with
-
-\[
-K_0(\Sigma'\mid\Sigma).
-\]
-
-Causal relevance requires that these transition structures differ under controlled assumptions. PSESH does not yet specify the selection criterion, objective, or probability law.
-
-## 7. Differentiation measure
-
-A candidate differentiation functional may later be defined:
-
-\[
-\Delta_n=\operatorname{Diff}(\Sigma_n).
-\]
-
-No definition of `Diff` has yet been selected. Monotonicity such as
-
-\[
-\Delta_{n+1}\geq\Delta_n
-\]
-
-must not be assumed unless derived or explicitly adopted for a particular model regime.
-
-## 8. Emergent relations and geometry
-
-**[SPEC]**
-
-\[
-R_n\xrightarrow{\mathcal E}(M,g).
-\]
-
-Candidate mathematical tools for relational emergence may include
-
-\[
-d_G(i,j)=\min_{p:i\to j}|p|
-\]
-
-and effective dimensional scaling
-
-\[
-N(r)\propto r^{d_{\mathrm{eff}}},
-\qquad
-d_{\mathrm{eff}}\approx\frac{d\ln N(r)}{d\ln r}.
-\]
-
-These are candidate tools, not established PSESH laws.
-
-## 9. Physical regime
-
-Only after a physical/spatiotemporal regime has emerged do ordinary physical quantities become safely applicable:
-
-\[
-(M,g)\Rightarrow E_{\mathrm{phys}},\;\text{fields},\;\text{matter},\ldots
-\]
-
-PSESH currently has no derivation of the Standard Model, Einstein field equations, quantum fields, or a specific cosmological metric.
-
-## 10. Individual consciousness
-
-**[SPEC][OPEN]**
-
-\[
-C_i=\mathcal I(C_P,\Omega_i).
-\]
-
-This records the individuation problem but does not solve it. `𝓘` remains unknown.
-
-## 11. Causal model comparison
-
-The current test program for primordial will is:
-
-\[
-M_0:(P,C_P,W_P),\;\lambda_W=0
-\]
-
-versus
-
-\[
-M_1:(P,C_P,W_P),\;\lambda_W\neq0.
-\]
-
-A future implementation can perform an ablation/counterfactual comparison while holding the remaining model assumptions fixed. A calculable functional `Q` would be needed such that
-
-\[
-Q(M_1)\neq Q(M_0)
-\]
-
-and, eventually, the difference would need to connect to a discriminating empirical consequence.
-
-## 12. Boundary
-
-If ordinary space is emergent,
-
-\[
-\partial P\;\text{is undefined in the present model}.
-\]
-
-If physical time is emergent, ordinary `t_start(P)` and `t_end(P)` are likewise not presently defined.
-
-## 13. Current missing pieces
-
-The formal program still requires: a mathematical definition of `P`; an explicit `D` and/or `G`; a formal characterization of `W_P`; a specified coupling mechanism `λ_W`; an emergence map `𝓔`; a solution or stronger model of consciousness individuation; and predictions that distinguish the causally coupled model from matched alternatives.
-
-The question “can will exist in an undifferentiated state?” is **not treated as a prerequisite** for this program. Under current PSESH ontology, `C_P` and `W_P` are already intrinsic to P. The scientific/formal question is whether `W_P` has a non-redundant causal role in differentiation.
+Dengan demikian, tahap penelitian berikutnya dimulai dari pertanyaan konseptual yang benar-benar berasal dari model dasar, lalu menggunakan literatur dan matematika hanya ketika diperlukan untuk menguji atau memperjelasnya.
