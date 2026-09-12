@@ -1,137 +1,177 @@
-# 04 — Primordial Consciousness / Kesadaran Primordial
+# 04 — Primordial Consciousness and Will / Kesadaran dan Kehendak Primordial
 
-> **Status:** foundational PSESH hypothesis + open formal research problem. This document deliberately separates the project's commitment from what has actually been demonstrated.
+> **Status:** foundational PSESH ontology + speculative causal hypothesis + open formal research problem. This document separates what PSESH currently adopts from what remains to be demonstrated.
 
-## 1. Foundational commitment / Komitmen fondasional
+## 1. Foundational commitment
 
-PSESH currently adopts the following architecture:
+PSESH does not begin from absolute nothingness and does not model consciousness or will as entities that appear after an initially non-conscious P.
 
-\[
-P+C_P\rightarrow\text{differentiation}\rightarrow\text{physical reality}\rightarrow\text{individual conscious systems (?) }
-\]
-
-**[PSESH]** Primordial consciousness `C_P` is treated as intrinsic to Primordial Substance:
+**[PSESH]**
 
 \[
-C_P\in\operatorname{Intrinsic}(P).
+C_P\in\operatorname{Intrinsic}(P),
+\qquad
+W_P\in\operatorname{Intrinsic}(P).
 \]
 
-Therefore PSESH does not begin with an entirely non-conscious substrate and add consciousness only at the biological stage.
-
-## 2. Consciousness is not identified with energy
-
-PSESH must distinguish the physical energetic conditions of known conscious organisms from consciousness itself:
+A compact representation is
 
 \[
-E_{\mathrm{phys}}\neq C_P.
+P\{C_P,W_P\}.
 \]
 
-**[EST]** Known biological information processing and conscious states depend on functioning physical systems and energy metabolism.
+The braces indicate intrinsic aspects in the present conceptual notation; they do not assert a particular mathematical ontology.
 
-**[OPEN]** That fact does not establish that consciousness-as-such is identical to energy, nor that primordial consciousness requires the same physical energetic substrate.
-
-## 3. Three competing architectures / Tiga arsitektur pembanding
-
-To avoid building the conclusion into the premises, PSESH should remain explicitly comparable with alternatives.
-
-### A — Emergent physicalist architecture
+Therefore the explanatory architecture is not
 
 \[
-E\rightarrow D\rightarrow I\rightarrow C\;?
+P\rightarrow C_P\rightarrow W_P\rightarrow D.
 \]
 
-Energy supports dynamics; dynamics support information processing/integration; consciousness may emerge.
+Instead, consciousness and will are already part of the primordial ontology, while differentiation is the process whose causal basis is under investigation.
 
-### B — Fundamental consciousness + physical realization
+## 2. Primordial Will Causation Hypothesis
+
+**[PSESH][SPEC]** Current hypothesis:
+
+> Primordial differentiation is causally initiated, selected, or constrained by primordial will `W_P`.
+
+Schematically:
 
 \[
-C+\text{physical realization}\rightarrow\text{organized conscious processing}\;?
+P\{C_P,W_P\}\xrightarrow{\;W_P\;?\;}D\rightarrow R\rightarrow(S,T)\rightarrow\text{physical universe}.
 \]
 
-### C — PSESH-nearest architecture
+The arrow marked `?` is deliberate: intrinsic existence of will does not by itself establish causal responsibility for differentiation.
+
+## 3. Ontology versus causation
+
+Two claims must remain separate:
+
+**Ontological commitment:**
 
 \[
-C_P\rightarrow\text{manifested/individualized through organized structures}\;?
+W_P\in\operatorname{Intrinsic}(P).
 \]
 
-Architecture C is closest to the present PSESH ontology. Its compatibility with the project is **not evidence that it is correct**.
-
-## 4. Causal/generative relevance
-
-A fundamental-consciousness hypothesis becomes scientifically stronger only if `C_P` changes the generative structure of the theory.
-
-Current requirement:
+**Causal hypothesis:**
 
 \[
-G[P,C_P;\Lambda]\neq G[P,\neg C_P;\Lambda].
+W_P\xrightarrow{?}D.
 \]
 
-If every physically possible prediction remains identical after removing `C_P`, then the consciousness term is causally redundant within the physical model. PSESH therefore needs to identify a consequence, constraint, selection rule, transition property, or observable that depends on `C_P`.
-
-## 5. Individuation problem / Masalah individuasi
-
-The present placeholder is:
+Thus
 
 \[
-C_i=\mathcal I(C_P,\Omega_i),
+W_P\text{ exists}\;\not\Rightarrow\;W_P\text{ causes differentiation}.
 \]
 
-where:
+The present research target is the second proposition.
 
-- `C_i` = individual consciousness,
-- `C_P` = primordial consciousness,
-- `Ω_i` = organized physical/informational structure associated with individual `i`,
-- `𝓘` = unknown individuation/manifestation relation.
+## 4. Counterfactual coupling test
 
-This does **not** explain how one fundamental conscious reality becomes or supports multiple distinct subjects. That is one of the central open problems of PSESH.
+Rather than comparing a universe containing will with one in which will does not exist, PSESH compares the causal coupling.
 
-## 6. Unity and differentiation
-
-PSESH must eventually distinguish at least three questions:
-
-1. **State differentiation:** how distinct states arise from an initially minimally/undifferentiated primordial condition.
-2. **Physical individuation:** how bounded or dynamically autonomous physical systems arise.
-3. **Phenomenal individuation:** why those systems correspond, if they do, to distinct first-person subjects.
-
-Solving (1) or (2) does not automatically solve (3).
-
-## 7. Minimal future mathematical target
-
-A more mature theory should attempt a structure such as:
+Let `λ_W` parameterize the coupling of primordial will to differentiation:
 
 \[
-\Sigma_{n+1}=D(\Sigma_n;P,C_P,\Lambda),
+\Sigma_{n+1}=D(\Sigma_n;P,C_P,\lambda_W W_P,\Lambda).
 \]
 
-and then define a measurable or calculable functional
+Control model:
 
 \[
-Q_C(\Sigma_n)
+M_0:\lambda_W=0.
 \]
 
-whose behavior differs between a model containing generatively relevant `C_P` and a matched model without it.
+Causal-will model:
 
-At present `Q_C` is **undefined**. Introducing it here records the type of object needed; it does not claim that a consciousness observable has already been discovered.
+\[
+M_1:\lambda_W\neq0.
+\]
 
-## 8. DeepSeek equation audit / Audit persamaan AI eksternal
+Both retain `P`, `C_P`, and `W_P` in the ontology. The difference is whether will has causal influence on differentiation.
 
-Earlier exploratory AI material proposed equations connecting power, information processing, synchronization, thermodynamics, IIT-style quantities, and consciousness. PSESH does **not** adopt numerical consciousness thresholds, invented human/AI Φ ranges, power→alertness claims, or composite equations as established science.
+A necessary formal condition for non-redundancy is that for some admissible state/condition,
 
-Potentially useful conceptual variables—energy availability, dynamics, information/integration, and unity—may be studied independently, but any future equation must be dimensionally coherent, literature-grounded, and empirically interpretable.
+\[
+D(\Sigma;\lambda_W\neq0)\neq D(\Sigma;\lambda_W=0).
+\]
 
-## 9. Hard problem remains open
+## 5. Minimal meaning of will in the formal model
 
-Even a complete account of energy use, neural dynamics, computation, integration, synchronization, and behavior does not by itself demonstrate why or whether those processes are accompanied by subjective experience.
+PSESH does not yet claim a final mathematical definition of will. A minimal working interpretation is:
 
-PSESH therefore must not claim that a mathematical correlate of information processing has solved consciousness.
+> `W_P` is the hypothesized capacity of primordial consciousness to non-trivially constrain, select, or bias admissible state transitions.
 
-## 10. Research objective / Sasaran penelitian
+If `𝒜(Σ_n)` is the set/space of admissible next states, a schematic representation is
 
-The immediate objective is not to manufacture a final consciousness equation. It is to determine whether the proposition `C_P ∈ Intrinsic(P)` can be given:
+\[
+W_P:\mathcal A(\Sigma_n)\rightarrow\text{constraint/preference over }\Sigma_{n+1}.
+\]
 
-- a coherent formal role,
-- non-redundant generative consequences,
-- a relationship to differentiation and individuation,
-- and ultimately a discriminating prediction or constraint.
+A later stochastic model could compare
 
-Until those conditions are met, primordial consciousness remains a **foundational PSESH hypothesis**, not an experimentally established property of reality.
+\[
+K_W(\Sigma'\mid\Sigma,W_P)
+\neq
+K_0(\Sigma'\mid\Sigma),
+\]
+
+but neither transition kernel has yet been derived.
+
+## 6. Consciousness and physical energy
+
+PSESH does not identify consciousness or primordial will with ordinary physical energy:
+
+\[
+E_{\mathrm{phys}}\neq C_P,
+\qquad
+E_{\mathrm{phys}}\neq W_P.
+\]
+
+Known biological conscious processing requires functioning physical systems and metabolism. This does not establish that consciousness-as-such is identical to energy or that primordial consciousness requires ordinary pre-existing physical energy.
+
+## 7. Individual consciousness
+
+**[SPEC][OPEN]**
+
+\[
+C_i=\mathcal I(C_P,\Omega_i).
+\]
+
+This remains a placeholder for individuation. PSESH has not yet explained why or how multiple organized systems correspond to distinct centers of subjective experience if consciousness is fundamental.
+
+State differentiation, physical individuation, and phenomenal individuation must not be treated as automatically equivalent problems.
+
+## 8. Test program
+
+The present methodology for the will-causation hypothesis is:
+
+1. **Formal consistency:** define `W_P`, `D`, and the coupling without contradiction.
+2. **Counterfactual comparison:** compare `λ_W=0` and `λ_W≠0` while holding other assumptions fixed.
+3. **Computational ablation:** once an explicit simulator exists, remove the causal coupling and measure whether generated states change.
+4. **Discriminating prediction:** identify a calculable consequence `Q` such that `Q(M_1) ≠ Q(M_0)` and determine whether it can connect to observation.
+
+This methodology tests the proposed **causal role** of will; it does not require PSESH to repeatedly re-derive the adopted ontological premise that consciousness and will are intrinsic to P.
+
+## 9. What is not a prerequisite
+
+The question “can will exist in an undifferentiated primordial state?” may remain a philosophical issue, but it is **not a prerequisite** in the present research program. PSESH already places `C_P` and `W_P` at the primordial level.
+
+The immediate scientific/formal question is narrower:
+
+\[
+\boxed{\text{Does }W_P\text{ have a non-redundant causal role in differentiation?}}
+\]
+
+## 10. Current status
+
+- `C_P ∈ Intrinsic(P)` — **[PSESH] foundational proposition**.
+- `W_P ∈ Intrinsic(P)` — **[PSESH] current foundational proposition**.
+- `W_P → D` — **[PSESH][SPEC] Primordial Will Causation Hypothesis**.
+- explicit `D`, `G`, `λ_W`, and selection rule — **[OPEN]**.
+- empirical consequence distinguishing causal from non-causal will — **[OPEN]**.
+- mechanism of individual consciousness — **[OPEN]**.
+
+The project therefore treats primordial will as an ontological commitment whose proposed causal role remains a testable/formal research target rather than an established scientific result.
