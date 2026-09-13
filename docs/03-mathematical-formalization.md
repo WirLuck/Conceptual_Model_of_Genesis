@@ -1,23 +1,20 @@
-# 03 — Formalisasi Minimum / Minimal Formalization
+# 03 — Formalisasi Minimum dan Agenda Matematika / Minimal Formalization and Mathematical Agenda
 
-> **Status / Status:** 🇮🇩 Notasi hanya untuk gagasan PSESH yang sudah dirumuskan. Mekanisme matematika yang belum dipahami secara konseptual sengaja ditangguhkan.  
-> 🇬🇧 Notation only for already-formulated PSESH ideas. Mathematical mechanisms not yet conceptually understood are deliberately deferred.
+> **Status / Status:** PSESM v0.8. Matematika digunakan untuk memperjelas dan menguji konsep yang sudah dipahami; struktur mekanistik belum ditentukan.
 
 ## Tujuan / Purpose
 
-🇮🇩 Matematika pada tahap ini digunakan untuk **meringkas pemahaman**, bukan menggantikan pemahaman dengan simbol baru.  
-🇬🇧 At this stage mathematics is used to **summarize understanding**, not to replace understanding with new symbols.
+🇮🇩 Tahap ini mempertahankan notasi seminimal mungkin. Namun PSESM secara eksplisit membuka **Mathematical Structure Program** untuk mencari apakah fondasi konseptual dapat menghasilkan struktur matematika yang konsisten, dapat dianalisis, dan mungkin berguna untuk persoalan lain.
+
+🇬🇧 This stage keeps notation deliberately minimal. PSESM nevertheless explicitly opens a **Mathematical Structure Program** to investigate whether its conceptual foundations can yield consistent, analyzable mathematical structures that may also prove useful for other problems.
 
 ## 1. Primordial Substance
-
-**[PSESH]**
 
 \[
 \operatorname{Exists}(P)=1.
 \]
 
-🇮🇩 Notasi ini menyatakan P sebagai realitas fundamental dalam model. Ia belum mendefinisikan apakah P secara matematis merupakan field, set, manifold, algebra, atau struktur lain.  
-🇬🇧 This notation states that P is treated as fundamental reality in the model. It does not yet define P mathematically as a field, set, manifold, algebra, or any other structure.
+**[PSESM]** P diperlakukan sebagai primordial/fundamental reality. Notasi ini belum menentukan apakah P adalah field, set, manifold, algebra, computational structure, atau objek matematika lainnya.
 
 ## 2. Ketiadaan relatif / Relative absence
 
@@ -25,60 +22,98 @@
 N(X\mid F)=1
 \]
 
-🇮🇩 berarti `X` tidak ada relatif terhadap frame/domain `F`. PSESH tidak menyamakan hal ini dengan ketiadaan mutlak.  
-🇬🇧 means that `X` is absent relative to frame/domain `F`. PSESH does not equate this with absolute nothingness.
+`X` absent relative to frame/domain `F` tidak sama dengan absolute nothingness. / `X` tidak ada relatif terhadap `F` tidak sama dengan ketiadaan mutlak.
 
-## 3. Kesadaran dan kehendak primordial / Primordial consciousness and will
-
-**[PSESH]**
+## 3. Consciousness and will
 
 \[
 C_P,W_P\in\operatorname{Intrinsic}(P).
 \]
 
-- `C_P` = kesadaran primordial / primordial consciousness.
-- `W_P` = kehendak primordial / primordial will.
+`C_P` dan `W_P` adalah sifat/prinsip intrinsik P dalam model. Belum ada ukuran numerik atau persamaan dinamika yang diberikan kepada keduanya.
 
-🇮🇩 Notasi ini tidak berarti P terlebih dahulu ada lalu menciptakan consciousness dan will. Ketiganya tidak sedang disusun sebagai kronologi.  
-🇬🇧 This notation does not mean that P first existed and subsequently produced consciousness and will. These concepts are not arranged as a chronology.
+## 4. Time
 
-## 4. Hipotesis kausal saat ini / Current causal hypothesis
+🇮🇩 PSESM sekarang memperlakukan time sebagai sesuatu yang sudah berjalan pada keadaan primordial dan tidak dihasilkan oleh emergence of space. Namun **belum ada struktur matematika khusus untuk ontologi waktu PSESM**. Kita tidak mengasumsikan pada tahap ini bahwa waktu harus direpresentasikan sebagai `(-∞,+∞)`, satu parameter global Newtonian, atau bentuk matematis tertentu lainnya.
+
+🇬🇧 PSESM now treats time as already proceeding in the primordial state and not as a product of the emergence of space. However, **no specific mathematical structure for the PSESM ontology of time has yet been selected**. At this stage we do not assume that time must be represented as `(-∞,+∞)`, a Newtonian global parameter, or any other particular mathematical form.
+
+Conceptual distinction:
 
 \[
-W_P\rightarrow\text{differentiation}.
+\text{existence}(T)
+\neq
+\text{observation}(T)
+\neq
+\text{measurement}(T)
+\neq
+\text{experience}(T).
 \]
 
-🇮🇩 **[PSESH][SPEC]** Diferensiasi primordial dihipotesiskan terjadi karena kehendak dari kesadaran primordial. Panah hanya menyatakan dugaan hubungan sebab; mekanismenya belum diformalkan.  
-🇬🇧 **[PSESH][SPEC]** Primordial differentiation is hypothesized to occur because of the will of primordial consciousness. The arrow only expresses a proposed causal relation; its mechanism has not yet been formalized.
+This is conceptual notation, not a physical equation.
 
-## Yang sengaja belum diformalkan / What is deliberately not formalized yet
-
-🇮🇩 Operator, coupling parameter, transition kernel, emergence map, differentiation functional, dan variabel mekanistik lain tidak digunakan sebagai bagian inti karena konsep yang hendak diwakilinya belum dirumuskan langsung dengan cukup jelas. Mereka hanya dapat dipertimbangkan kembali ketika konsep dasarnya dipahami, kebutuhannya muncul dari konsep, asumsi tambahannya dapat dikenali, dan formalisasi tersebut membantu analisis atau pengujian.
-
-🇬🇧 Operators, coupling parameters, transition kernels, emergence maps, differentiation functionals, and other mechanistic variables are not part of the core model because the concepts they would represent have not yet been directly formulated with sufficient clarity. They may be reconsidered only when the underlying concept is understood, their need arises from the concept itself, added assumptions can be identified, and the formalization contributes to analysis or testing.
-
-## Rantai minimum / Current minimal chain
+## 5. Current causal/generative question
 
 \[
 P\{C_P,W_P\}
-\xrightarrow{\text{will / kehendak}}
+\xrightarrow{\text{generative principle ?}}
 \text{differentiation}
 \rightarrow
-\text{structured relations}
+\text{structured state}
 \rightarrow
-\text{emergent space}
-\rightarrow
-\text{cosmic development}.
+\begin{cases}
+\text{space}\\
+\text{material reality}
+\end{cases}
 \]
 
-🇮🇩 Rantai ini adalah model konseptual, bukan persamaan dinamika fisika.  
-🇬🇧 This chain is a conceptual model, not an equation of physical dynamics.
+🇮🇩 `generative principle ?` sengaja ditulis sebagai pertanyaan. PSESM belum mengetahui mekanisme yang menghubungkan consciousness/will dengan differentiation. Logos dapat menjadi heuristic key untuk menanyakan prinsip ini tetapi bukan persamaan yang sudah diketahui.
+
+🇬🇧 `generative principle ?` is deliberately written as a question. PSESM does not yet know the mechanism connecting consciousness/will with differentiation. Logos may function as a heuristic key for asking about this principle but is not an already-known equation.
+
+## Yang sengaja belum diformalkan / Deliberately unformalized
+
+Operator, coupling parameters, transition kernels, emergence maps, differentiation functionals, numerical consciousness measures, dan mekanisme serupa tidak dimasukkan ke core sampai kebutuhan terhadapnya muncul dari konsep yang jelas.
+
+## Mathematical Structure Program
+
+Program ini akan bergerak melalui urutan:
+
+```text
+concept
+   ↓
+precise definition
+   ↓
+identify mathematical requirements
+   ↓
+select/construct candidate structure
+   ↓
+derive consequences
+   ↓
+compare with known mathematics and physics
+   ↓
+test/revise
+```
+
+Matematika tidak hanya dicari untuk membuat PSESM tampak formal. Kandidat struktur harus membantu menjawab pertanyaan, menghasilkan constraints/consequences, atau memungkinkan pengujian.
+
+## Established Physics Compatibility Program
+
+🇮🇩 Formula dan teori fisika mapan akan dibandingkan dengan PSESM secara bertahap. Kategori hasil minimum:
+
+- **compatible** — tidak ditemukan konflik dalam domain yang dibandingkan;
+- **incompatible** — terdapat konflik yang harus dijelaskan atau menyebabkan revisi/penolakan;
+- **irrelevant** — teori tersebut tidak menjawab klaim PSESM yang sedang diperiksa;
+- **requires clarification/modification** — perbandingan belum dapat dilakukan tanpa definisi tambahan.
+
+🇬🇧 Established physical formulas and theories will be progressively compared with PSESM using the same categories: **compatible, incompatible, irrelevant, or requires clarification/modification**.
+
+Initial domains may include classical mechanics, special/general relativity, thermodynamics, quantum mechanics, quantum field theory, particle physics, and cosmology.
+
+**Compatibility is not evidence by itself.** A mature theory fitting inside PSESM does not prove PSESM. A scientifically stronger result would require distinctive consequences that differentiate PSESM from alternatives.
 
 ## Batas metodologi / Methodological constraint
 
-**🇮🇩 Tidak ada variabel matematika baru yang boleh dimasukkan ke model inti sebelum konsep dasarnya dipahami dan dirumuskan secara langsung.**
+**No new mathematical variable should be promoted into the core model before the underlying concept has been directly understood and formulated.**
 
-**🇬🇧 No new mathematical variable should be promoted into the core model before the underlying concept has been directly understood and formulated.**
-
-🇮🇩 Penelitian bergerak dari pertanyaan konseptual yang berasal dari model dasar, lalu menggunakan literatur dan matematika hanya ketika diperlukan untuk menguji atau memperjelasnya.  
-🇬🇧 Research proceeds from conceptual questions arising from the foundational model, using literature and mathematics only when needed to clarify or test those questions.
+Likewise, established equations must not be reinterpreted as evidence for primordial consciousness or will unless the equations and empirical evidence genuinely entail such a conclusion.
