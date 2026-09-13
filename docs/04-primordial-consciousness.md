@@ -1,81 +1,101 @@
-# 04 — Kesadaran dan Kehendak Primordial / Primordial Consciousness and Will
+# 04 — Kesadaran, Kehendak, dan Pengamat Primordial / Primordial Consciousness, Will, and Observer
 
-> **Status / Status:** proposisi fondasional PSESH + hipotesis kausal kerja / foundational PSESH proposition + working causal hypothesis. Mekanisme formal di luar konsep yang sudah dirumuskan sengaja ditangguhkan / formal mechanisms beyond the directly formulated concept are intentionally deferred.
+> **Status / Status:** foundational PSESM propositions + working hypotheses. Formal mechanisms remain open.
 
-## 1. Pemahaman dasar / Starting understanding
+## 1. Primordial Substance as the primordial observer
 
-🇮🇩 PSESH tidak dimulai dari ketiadaan mutlak. Primordial Substance `P` diperlakukan sebagai realitas fundamental, sementara consciousness dan will diperlakukan sebagai aspek yang sudah terdapat pada keadaan primordial.
-
-🇬🇧 PSESH does not begin from absolute nothingness. Primordial Substance `P` is treated as fundamental reality, while consciousness and will are treated as aspects already present at the primordial level.
+🇮🇩 Primordial Substance `P` diperlakukan sebagai realitas primordial/fundamental. Kesadaran `C_P` dan kehendak `W_P` adalah sifat/prinsip intrinsik P.
 
 \[
-C_P,W_P\in\operatorname{Intrinsic}(P).
+C_P,W_P\in\operatorname{Intrinsic}(P)
 \]
 
 \[
 P\{C_P,W_P\}.
 \]
 
-🇮🇩 Ini bukan kronologi `P → consciousness → will`.  
-🇬🇧 This is not a chronology of `P → consciousness → will`.
+Dalam model saat ini, P adalah entitas primordial pertama yang **menyadari dan mengalami waktu**. Ini tidak berarti P menciptakan waktu. Time tetap berjalan; consciousness memungkinkan adanya awareness/experience terhadap time.
 
-## 2. Kesadaran / Consciousness
+🇬🇧 Primordial Substance `P` is treated as primordial/fundamental reality. Consciousness `C_P` and will `W_P` are intrinsic properties/principles of P. In the current model, P is the first primordial entity that **is aware of and experiences time**. This does not mean that P creates time. Time continues; consciousness enables awareness/experience of time.
 
-🇮🇩 `C_P` menyatakan **kesadaran primordial**. Pada tahap sekarang PSESH belum memberikan definisi fisik atau persamaan lengkap mengenai consciousness. Klaim yang dipertahankan hanya bahwa consciousness ditempatkan pada level primordial dalam model. Ini adalah **[PSESH]**, bukan fakta ilmiah yang telah dibuktikan.
-
-🇬🇧 `C_P` denotes **primordial consciousness**. At the present stage PSESH does not provide a physical definition or complete equation for consciousness. The retained claim is only that consciousness is placed at the primordial level of the model. This is a **[PSESH]** proposition, not an established scientific fact.
-
-## 3. Kehendak / Will
-
-🇮🇩 `W_P` menyatakan **kehendak primordial**. Will tidak diperkenalkan sebagai substansi terpisah dari P, melainkan sebagai aspek yang berkaitan dengan primordial consciousness. PSESH belum menetapkan ukuran numerik atau mekanisme matematis untuk will.
-
-🇬🇧 `W_P` denotes **primordial will**. Will is not introduced as a substance separate from P, but as an aspect associated with primordial consciousness. PSESH has not assigned a numerical measure or mathematical mechanism to will.
-
-## 4. Intuisi yang sedang diuji / Current intuition under examination
-
-> 🇮🇩 **Diferensiasi primordial terjadi karena kehendak dari kesadaran primordial.**  
-> 🇬🇧 **Primordial differentiation occurs because of the will of primordial consciousness.**
+## 2. Observer does not create time
 
 \[
-W_P\rightarrow\text{differentiation}.
+\text{existence of time}
+\neq
+\text{awareness of time}
+\neq
+\text{measurement of time}
+\neq
+\text{experience of time}.
 \]
 
-🇮🇩 Statusnya **[PSESH][SPEC]**. Panah menyatakan dugaan hubungan sebab, bukan bukti bahwa hubungan tersebut telah ditemukan di alam.  
-🇬🇧 Its status is **[PSESH][SPEC]**. The arrow expresses a proposed causal relation, not evidence that this relation has been established in nature.
+🇮🇩 Observer hanya dapat mengamati/mengukur waktu melalui kondisi dan metode pengukuran yang tersedia. PSESM tidak mengusulkan bahwa tindakan sadar observer membuat waktu menjadi ada.
 
-## 5. Yang belum diketahui / What remains unknown
+🇬🇧 An observer can observe/measure time through available physical conditions and measurement methods. PSESM does not propose that a conscious act by an observer brings time into existence.
 
-🇮🇩 Model belum menjelaskan secara formal bagaimana will menyebabkan differentiation, bagaimana differentiation menghasilkan struktur dan relasi, bagaimana relasi berkembang menjadi ruang, bagaimana alam fisik berkembang dari keadaan tersebut, atau bagaimana primordial consciousness berkaitan dengan consciousness individual.
+## 3. Consciousness / Kesadaran
 
-🇬🇧 The model does not yet formally explain how will causes differentiation, how differentiation produces structure and relations, how relations develop into space, how the physical universe develops from that state, or how primordial consciousness relates to individual consciousness.
+`C_P` denotes primordial consciousness / menyatakan kesadaran primordial.
 
-Pertanyaan-pertanyaan tersebut / These questions remain **[OPEN]**.
+🇮🇩 PSESM belum memiliki physical definition atau mathematical equation yang menjelaskan consciousness. Klaim bahwa consciousness merupakan sifat intrinsik P adalah **[PSESM] proposition**, bukan established scientific fact.
 
-## 6. Batas metodologi / Methodological boundary
+🇬🇧 PSESM does not yet possess a physical definition or mathematical equation explaining consciousness. The claim that consciousness is intrinsic to P is a **[PSESM] proposition**, not an established scientific fact.
 
-```text
-konsep yang dipahami / understood concept
-              ↓
-pernyataan jelas / clear statement
-              ↓
-perbandingan literatur / literature comparison
-              ↓
-formalisasi bila diperlukan / formalization only when needed
-              ↓
-konsekuensi atau uji / potential consequence or test
-```
+## 4. Will / Kehendak
 
-🇮🇩 Matematika berfungsi sebagai alat untuk menguji konsep, bukan sebagai sumber konsep yang belum dipahami.  
-🇬🇧 Mathematics functions as a tool for testing concepts, not as a source of concepts that have not yet been understood.
+`W_P` denotes primordial will / menyatakan kehendak primordial.
 
-## 7. Status ilmiah / Scientific status
+Will tidak diperlakukan sebagai substansi terpisah. PSESM belum menetapkan numerical measure, coupling parameter, probability distribution, atau mathematical mechanism untuk will.
 
-- `C_P` primordial — **[PSESH] proposition / proposisi**.
-- `W_P` primordial — **[PSESH] proposition / proposisi**.
-- `W_P → differentiation` — **[PSESH][SPEC] working causal hypothesis / hipotesis kausal kerja**.
-- mechanism of differentiation / mekanisme diferensiasi — **[OPEN]**.
-- emergence of space / kemunculan ruang — **[OPEN]**.
-- individual consciousness mechanism / mekanisme kesadaran individual — **[OPEN]**.
+## 5. Differentiation and the generative-principle question
 
-🇮🇩 Tidak ada bagian di atas yang saat ini merupakan bukti empiris bahwa primordial consciousness atau primordial will benar-benar merupakan properti fundamental alam.  
-🇬🇧 None of the above currently constitutes empirical evidence that primordial consciousness or primordial will is genuinely a fundamental property of nature.
+🇮🇩 Hipotesis kerja menyatakan bahwa will yang berkaitan dengan primordial consciousness berperan dalam differentiation of P. Tetapi mekanisme generatifnya belum diketahui.
+
+🇬🇧 The working hypothesis proposes that will associated with primordial consciousness plays a role in differentiation of P. Its generative mechanism, however, is not yet known.
+
+\[
+P\{C_P,W_P\}
+\xrightarrow{\text{generative principle ?}}
+\text{differentiation}.
+\]
+
+Status: **[PSESM][SPEC][OPEN]**.
+
+## 6. Logos as heuristic key
+
+🇮🇩 Konsep teologis *Logos/Firman* dicatat sebagai **[THEO][HEUR] heuristic key for investigating the generative principle**. Ia membantu merumuskan pertanyaan tentang bagaimana consciousness/will dapat berhubungan dengan differentiation, order, dan creation. Ia **bukan bukti**, bukan formula fisika, dan tidak diasumsikan identik dengan algoritma tertentu.
+
+Istilah "algoritma" hanya boleh dipakai sebagai bahasa intuitif sampai terdapat alasan matematika untuk mendefinisikannya secara formal.
+
+🇬🇧 The theological concept of *Logos/Word* is recorded as a **[THEO][HEUR] heuristic key for investigating the generative principle**. It helps formulate questions about how consciousness/will might relate to differentiation, order, and creation. It is **not evidence**, not a physical formula, and is not assumed to be identical to any particular algorithm.
+
+The term "algorithm" should remain intuitive language unless mathematical work later provides grounds for a formal definition.
+
+## 7. Other heuristic inspiration
+
+🇮🇩 Pemikiran mengenai consciousness juga mendapat inspirasi filosofis/spiritual dari literatur bernuansa Theravada, termasuk buku yang disebut dalam catatan pengembangan sebagai *Superpower Mindfulness*. Sumber tersebut dicatat sebagai **key to understand/investigate the principle**, bukan sebagai empirical evidence. Klaim spesifik dari sumber tersebut harus dikaji langsung dari teks sebelum digunakan secara akademik.
+
+🇬🇧 The project's thinking about consciousness also draws philosophical/spiritual inspiration from Theravada-oriented literature, including a book referred to in the development record as *Superpower Mindfulness*. Such sources are recorded as **keys to understand/investigate the principle**, not as empirical evidence. Specific claims from those sources must be examined directly in the text before academic use.
+
+## 8. Relativity: related but answering a different question
+
+🇮🇩 Relativity berkaitan dengan observer, reference frames, temporal measurements, motion/trajectory, dan gravity. Tetapi teori tersebut tidak secara langsung menjawab klaim ontologis PSESM tentang mengapa time exists atau mengapa P adalah primordial conscious observer. Karena itu relativity dicatat sebagai **relevant established physics / conceptual pivot**, bukan supporting evidence.
+
+🇬🇧 Relativity concerns observers, reference frames, temporal measurements, motion/trajectory, and gravity. It does not directly answer the PSESM ontological claims about why time exists or why P is a primordial conscious observer. Relativity is therefore recorded as **relevant established physics / conceptual pivot**, not supporting evidence.
+
+## 9. Open questions / Pertanyaan terbuka
+
+- What is the generative principle connecting `C_P`, `W_P`, and differentiation?
+- What mathematical structure, if any, represents that principle?
+- How does differentiation produce structured states?
+- How do space and material constituents emerge?
+- What is the correct mathematical ontology of time in PSESM?
+- How does primordial consciousness relate, if at all, to individual consciousness?
+- Can any PSESM proposition generate a distinctive empirical prediction?
+
+## 10. Scientific boundary / Batas ilmiah
+
+🇮🇩 PSESM harus menghasilkan konsekuensi yang dapat diperiksa tanpa mengharuskan penguji menerima terlebih dahulu keyakinan teologis atau spiritual yang menginspirasinya. Hasil yang gagal mendukung model harus dipertahankan sebagai bagian dari penelitian.
+
+🇬🇧 PSESM must seek consequences that can be examined without requiring investigators first to accept the theological or spiritual ideas that inspired the questions. Results that fail to support the model must remain part of the research record.
