@@ -1,49 +1,47 @@
-# PSESH Conceptual Visual Model / Model Visual Konseptual PSESH
+# PSESM Conceptual Visual Model / Model Visual Konseptual PSESM
 
-![PSESH Conceptual Model](Primordial%20Substance%202D%20Model.png)
+## Current visual / Visual saat ini
 
-## 🇮🇩 Status
+![PSESM Current Model](ChatGPT%20Image%2013%20Sep%202026%2C%2013.10.02.png)
 
-Gambar di atas adalah **visualisasi konseptual utama saat ini** untuk menjelaskan PSESH secara lebih mudah kepada pembaca umum. Ia bukan simulasi fisika tervalidasi dan bukan hasil numerik dari hukum dinamika yang telah dibuktikan.
+🇮🇩 Gambar di atas adalah visualisasi konseptual utama PSESM saat ini. Ia merekam perkembangan konsep terbaru: Primordial Substance, consciousness dan will sebagai sifat/prinsip intrinsik, differentiation, structured state, emergent space dan material reality, serta time yang sudah berjalan dan tidak diciptakan oleh observer.
 
-Struktur konseptual dasarnya adalah:
+🇬🇧 The image above is the current primary conceptual visualization of PSESM. It records the latest conceptual development: Primordial Substance, consciousness and will as intrinsic properties/principles, differentiation, structured state, emergent space and material reality, and time as already proceeding rather than being created by an observer.
+
+Visual ini bukan simulasi fisika tervalidasi atau bukti PSESM. / This visual is not a validated physical simulation or evidence for PSESM.
+
+## Historical visual / Visual historis
+
+![Historical Model](Primordial%20Substance%202D%20Model.png)
+
+🇮🇩 Gambar sebelumnya sengaja dipertahankan untuk menunjukkan sejarah perkembangan kajian. Ia merepresentasikan tahap konseptual sebelumnya dan bukan model terbaru, khususnya pada bagian yang kemudian direvisi mengenai time, observer, nama model, serta space/material reality.
+
+🇬🇧 The previous image is intentionally preserved to document the research history. It represents an earlier conceptual stage rather than the current model, particularly where later revisions changed the treatment of time, observer, the model name, and space/material reality.
+
+## Current conceptual structure / Struktur konseptual saat ini
 
 ```text
-PRIMORDIAL SUBSTANCE
-████████████████████████████
-
-       differentiation
-██████████▓▓▒▒░░▒▒▓▓████████
-
-       structured state
-██████▓▒○──○──○▒▓███████████
-
-       cosmic development
-████▓▒○──☉──✦──◎──●──✧▒▓████
+P{C_P,W_P}
+      |
+      | Generative Principle ?
+      v
+Differentiation
+      ↓
+Structured State
+      ↓
+Emergent Space + Material Reality
 ```
 
-Interpretasi kerja:
+Time is not an output of this sequence. / Waktu bukan keluaran dari urutan ini.
 
-1. Primordial Substance `P` adalah realitas fondasional dan tidak digambarkan sebagai objek yang berada di dalam ruang eksternal.
-2. Primordial consciousness `C_P` merupakan aspek intrinsik hipotesis dari P, bukan objek terpisah.
-3. Diferensiasi terjadi di dalam P.
-4. Keadaan terstruktur memperkenalkan relasi; garis pada diagram merupakan representasi konseptual dari ruang/relasi spasial yang muncul.
-5. Pada perkembangan berikutnya, domain tersebut memuat struktur fisik dan kosmik.
-6. Batas gambar atau bentuk domain visual bukan batas ontologis P.
+Observer does not create time; an observer can observe, measure, and experience time. / Observer tidak menciptakan waktu; observer dapat mengamati, mengukur, dan mengalami waktu.
 
-## 🇬🇧 Status
+## Interpretation boundary / Batas interpretasi
 
-The image above is the **current primary conceptual visualization** used to communicate PSESH accessibly. It is not a validated physical simulation and is not a numerical output derived from an established dynamical law.
-
-Working interpretation:
-
-1. Primordial Substance `P` is foundational reality and is not depicted as an object located inside external space.
-2. Primordial consciousness `C_P` is a hypothesized intrinsic aspect of P, not a separate object.
-3. Differentiation occurs within P.
-4. The structured state introduces relations; the line in the diagram conceptually represents emerging space/spatial relations.
-5. In subsequent development the domain contains physical and cosmic structures.
-6. The image edge or displayed domain boundary is not an ontological boundary of P.
+- Batas gambar bukan batas ontologis P. / Image boundaries are not ontological boundaries of P.
+- Warna, geometri, kecerahan, dan posisi pusat adalah konvensi ilustratif kecuali kelak diformalkan. / Color, geometry, brightness, and central placement are illustrative conventions unless later formalized.
+- Objek kosmik merepresentasikan perkembangan material/kosmik, bukan derivasi fisika lengkap. / Cosmic objects represent material/cosmic development, not a complete physical derivation.
 
 ## Scientific status / Status ilmiah
 
-**[PSESH][SPEC]** This visual records the intended conceptual architecture. A future computational simulation must be generated from explicit mathematical transition laws before it can be treated as a dynamical result.
+**[PSESM][SPEC]** Visual ini merekam arsitektur konseptual dan sejarah kajian, bukan bukti empiris model. / These visuals record conceptual architecture and research history, not empirical evidence for the model.
