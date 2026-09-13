@@ -1,6 +1,6 @@
 # Primordial Substance and the Emergent State of Space and Every Material (PSESM)
 
-> **Versi / Version:** v0.8 — Time, Observer, Generative Principle & Research Programs  
+> **Versi / Version:** v0.9 — Generative Principle & Visual History  
 > **Status / Status:** Riset konseptual independen / independent conceptual research — **bukan teori fisika mapan dan bukan bukti ilmiah tentang Tuhan / not an established physical theory and not scientific proof of God.**  
 > **Bahasa / Languages:** Bahasa Indonesia + English
 
@@ -84,6 +84,16 @@ PSESM membedakan / distinguishes:
 
 ---
 
+## Generative Principle
+
+🇮🇩 Posisi **Generative Principle** adalah pusat agenda pengujian PSESM. Di sinilah matematika dan established physics akan dibandingkan dengan model untuk menilai apakah jalur dari `P{C_P,W_P}` menuju differentiation, structured state, emergent space, dan material reality dapat dijelaskan secara konsisten. Tujuannya bukan memaksa seluruh hukum fisika agar cocok, melainkan menemukan batas kompatibilitas, kontradiksi, invariant, constraint, atau kemungkinan konsekuensi baru.
+
+🇬🇧 The **Generative Principle** is the central testing zone of PSESM. This is where mathematics and established physics will be compared with the model to determine whether the path from `P{C_P,W_P}` to differentiation, structured state, emergent space, and material reality can be described consistently. The goal is not to force all physical laws to fit, but to identify compatibility limits, contradictions, invariants, constraints, or possible new consequences.
+
+Established physics should be classified as **compatible, incompatible, irrelevant, or requiring clarification/modification** with respect to the model. Mere compatibility is not evidence for PSESM.
+
+---
+
 ## Logos dan heuristic keys / Logos and heuristic keys
 
 🇮🇩 Teologi dan gagasan filosofis/spiritual, termasuk inspirasi dari tradisi Theravada, **bukan bukti ilmiah PSESM**. Dalam proyek ini mereka dapat berfungsi sebagai **key to understand/investigate the principle**: sumber pertanyaan dan pola konseptual yang kemudian harus diuji secara independen.
@@ -94,64 +104,32 @@ Konsep *Logos/Firman* diperlakukan sebagai **heuristic key for investigating a g
 
 The concept of *Logos/Word* is treated as a **heuristic key for investigating a generative principle**, not as an already-discovered equation or physical mechanism. The word "algorithm" may be used intuitively, but PSESM does not yet know whether the generative principle is mathematically algorithmic.
 
-```text
-Spiritual/Theological/Philosophical insight
-                  ↓
-       heuristic key / research question
-                  ↓
-              hypothesis
-                  ↓
-            formalization
-                  ↓
-                 test
-```
-
-Bukan / Not:
-
-```text
-Scripture or spiritual insight → scientific proof
-```
-
 ---
 
-## Program penelitian berikutnya / Next research programs
+## Program penelitian / Research programs
 
 ### 1. Mathematical Structure Program
 
-🇮🇩 Tujuannya adalah mencari struktur matematika yang mampu merepresentasikan P, time, consciousness, will, differentiation, emergent space, dan material reality **hanya setelah konsep yang hendak diformalkan cukup jelas**. Matematika diharapkan bukan hanya memperjelas model, tetapi juga memungkinkan ditemukannya konsekuensi atau kegunaan lain yang belum diketahui.
-
-🇬🇧 The goal is to investigate mathematical structures capable of representing P, time, consciousness, will, differentiation, emergent space, and material reality **only after the underlying concepts are sufficiently clear**. Mathematics is intended not merely to decorate the model but to enable consequences or other possible uses to be discovered.
+Mencari struktur matematika yang mampu merepresentasikan P, time, consciousness, will, differentiation, emergent space, dan material reality hanya setelah konsep yang hendak diformalkan cukup jelas. / Investigate mathematical structures only after the underlying concepts are sufficiently clear.
 
 ### 2. Established Physics Compatibility Program
 
-🇮🇩 PSESM akan dibandingkan secara bertahap dengan teori dan formula fisika yang telah matang. Tujuannya bukan memaksa teori mapan agar sesuai dengan PSESM, melainkan menentukan apakah suatu teori **compatible, incompatible, irrelevant, atau requires modification/clarification** terhadap model. Kontradiksi harus dicatat sebagai hasil penelitian.
-
-🇬🇧 PSESM will be progressively compared with mature physical theories and formulas. The goal is not to force established physics to fit PSESM, but to determine whether each theory is **compatible, incompatible, irrelevant, or requires modification/clarification** with respect to the model. Contradictions must be retained as research results.
-
-Candidate domains include classical mechanics, relativity, thermodynamics, quantum mechanics, quantum field theory, particle physics, and cosmology.
+Membandingkan PSESM secara bertahap dengan classical mechanics, relativity, thermodynamics, quantum mechanics, quantum field theory, particle physics, cosmology, dan ilmu mapan lain yang relevan. / Progressively compare PSESM with mature physics and other relevant established sciences.
 
 ---
 
 ## Model visual saat ini / Current visual model
 
-![PSESM Conceptual Model](visual-model/Primordial%20Substance%202D%20Model.png)
+![PSESM Conceptual Model](visual-model/ChatGPT%20Image%2013%20Sep%202026%2C%2013.10.02.png)
 
-```text
-PRIMORDIAL SUBSTANCE
-████████████████████████████
+🇮🇩 Gambar di atas adalah visual utama PSESM v0.8/v0.9 saat ini. Visual sebelumnya tetap disimpan di repositori sebagai bagian dari sejarah perkembangan model dan **tidak dianggap sebagai representasi terbaru**.
 
-       differentiation
-██████████▓▓▒▒░░▒▒▓▓████████
+🇬🇧 The image above is the current primary PSESM v0.8/v0.9 visual. The previous visual remains in the repository as part of the model's research history and **is not treated as the current representation**.
 
-       structured state
-██████▓▒○──○──○▒▓███████████
-
-       space + material/cosmic development
-████▓▒○──☉──✦──◎──●──✧▒▓████
-```
-
-🇮🇩 Diagram adalah representasi konseptual. Waktu tidak digambarkan sebagai produk tahap keempat.  
-🇬🇧 The diagram is a conceptual representation. Time is not depicted as a product of the fourth stage.
+Visual history / Riwayat visual:
+- Current / Saat ini: [`visual-model/ChatGPT Image 13 Sep 2026, 13.10.02.png`](visual-model/ChatGPT%20Image%2013%20Sep%202026%2C%2013.10.02.png)
+- Historical / Historis: [`visual-model/Primordial Substance 2D Model.png`](visual-model/Primordial%20Substance%202D%20Model.png)
+- Notes / Catatan: [`visual-model/README.md`](visual-model/README.md)
 
 ---
 
@@ -206,8 +184,9 @@ No mathematical variable or physical mechanism is promoted into the core merely 
 - [`docs/02-stage-model.md`](docs/02-stage-model.md) — foundational model including time and observer
 - [`docs/03-mathematical-formalization.md`](docs/03-mathematical-formalization.md) — minimal formalization and mathematical research direction
 - [`docs/04-primordial-consciousness.md`](docs/04-primordial-consciousness.md) — primordial consciousness, will, and generative-principle question
-- [`docs/08-visual-model-specification.md`](docs/08-visual-model-specification.md) — visual specification
-- [`visual-model/README.md`](visual-model/README.md) — visual notes
+- [`docs/05-generative-principle-research.md`](docs/05-generative-principle-research.md) — physics and mathematics compatibility program
+- [`docs/08-visual-model-specification.md`](docs/08-visual-model-specification.md) — visual specification and visual history
+- [`visual-model/README.md`](visual-model/README.md) — visual notes and archive
 
 ---
 
